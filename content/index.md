@@ -1,6 +1,5 @@
 ---
 title: Welcome to Quartz
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Welcome to my blog.
+![[57543279-6679-488a-a946-e207992fcc36.png]]
