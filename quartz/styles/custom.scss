@@ -11,7 +11,6 @@ img[alt*="right"] {
 }
 
 /* Hide the entry count text under tables */
-.dataTables_info,
-.dataview-result-count {
+.bases-view-meta {
   display: none !important;
 }

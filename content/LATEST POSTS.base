@@ -4,7 +4,7 @@ properties:
   file.ctime:
     displayName: Creation Date
 views:
-  - type: table
+  - type: cards
     name: Latest Posts
     filters:
       and:
@@ -19,3 +19,4 @@ views:
       - property: file.ctime
         direction: DESC
     limit: 10
+    image: note.image_cover
