@@ -3,4 +3,4 @@ title: Welcome to Quartz
 ---
 Welcome to my blog.
 
-![[OCIO Display LUT.png]]
+![[OCIO Display.png]]
