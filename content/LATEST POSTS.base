@@ -1,8 +1,19 @@
+properties:
+  file.name:
+    displayName: Post
+  file.ctime:
+    displayName: Creation Date
 views:
   - type: table
-    name: Table
+    name: Latest Posts
     filters:
       and:
         - file.tags.contains("post")
     order:
       - file.name
+      - file.ctime
+      - Summary
+    sort:
+      - property: file.ctime
+        direction: DESC
+    limit: 10
