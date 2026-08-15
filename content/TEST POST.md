@@ -7,4 +7,4 @@ This is a basic git test
 
 Now with joint enabled
 
-Now to check
+Now to check with relative paths
