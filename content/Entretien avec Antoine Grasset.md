@@ -5,25 +5,27 @@ Summary: Interview complète de Antoine Grasset - 2025
 image_cover:
 draft:
 ---
-*J'ai rencontré Antoine lorsque que j'étais en alternance chez Spline. Le courant est tout de suite passé avec ce drôle d'énergumène, aussi à l'aise derrière un appareil photo que d'un robot industriel de 2 tonnes...* 
+---
+## Pour la petite histoire...
+
+*J'ai rencontré Antoine Grasset lorsque que j'étais en alternance chez Spline. Le courant est tout de suite passé avec ce drôle d'énergumène, aussi à l'aise derrière un appareil photo que d'un robot industriel de 2 tonnes...* 
 
 *Tout comme Antoine, je suis passionné par les gens passionnant. Après une année compliqué, j'ai voulu complètement quitter le milieu et me reconvertir dans quelque chose de plus simple. Mais comme le hasard fait bien les choses, j'ai été rattrapé dans ma chute par des gens fantastiques à Spline, dont Antoine fait partie.* 
 
-*Si je suis encore là aujourd'hui, c'est grâce à des gens comme ceux que j'y ai rencontré, qui montré que l'audiovisuel pouvait être un milieu agréable et dans lequel j'avais tout ma place. C'est donc assez logiquement que j'ai proposé à Antoine cet entretien pour le remercier, et que le monde connaisse l'existence de ce type de personnes, aussi passionnantes et mystérieuses que salvatrices.*
+*Si je suis encore là aujourd'hui, c'est grâce à des gens comme ceux que j'y ai rencontré, qui m'ont montré que l'audiovisuel pouvait être un milieu agréable et dans lequel j'avais tout ma place. C'est donc assez logiquement que j'ai proposé à Antoine cet entretien pour le remercier, et que le monde connaisse l'existence de ce type de personnes, aussi passionnantes et mystérieuses que salvatrices.*
 
 *Cet entretien date du 9 décembre 2025.*
 
 ---
 
-**"Bonsoir Antoine, pour commencer, j'aimerais savoir qui se cache derrière le pseudonyme Papayou. Est-ce un saucissonphile moustachu ?"**
+###### **"Bonsoir Antoine, pour commencer, j'aimerais savoir qui se cache derrière le pseudonyme Papayou. Est-ce un saucissonphile moustachu ?"**
 
-_"Ou une tranche de bacon géante ! Je ne sais même pas vraiment qui a inventé ce nom... Avant ça, mon surnom c'était Pyjaman. J'avais un t-shirt d'EPS que j'adorais, plein de petits motifs rigolos. Et un jour, dans les vestiaires, le petit tyran de service m'a vu m'habiller et m'a lancé : "Wesh, Pyjaman !" Tout le monde a éclaté de rire, et moi, je me suis dit : "Ouais, c'est vrai !"_
+*"Ou une tranche de bacon géante !(*Référence à sa photo de profil Instagram). *Je ne sais même pas vraiment qui a inventé ce nom... Avant ça, mon surnom c'était Pyjaman. J'avais un t-shirt d'EPS que j'adorais, avec plein de petits motifs rigolos. Et un jour, dans les vestiaires, le bully de tout le monde m'a vu m'habiller et m'a lancé : "Wesh, Pyjaman !" Tout le monde a éclaté de rire, et moi, je me suis dit : "Ouais, c'est vrai !"*
 
 _Et petit à petit, c'est devenu un peu mon étendard. On peut porter ce qu'on veut, on peut être qui on veut. Puis, de fil en aiguille — parce que j'ai toujours eu un goût prononcé pour tout ce qui n'a aucun sens : les vidéos, les gifs... — j'ai monté un petit blog qui postait des trucs improbables avec mes potes._
 
 ---
-### "[...]C'est [...] mon étendard. On peut porter ce qu'on veut, on peut être qui on veut."
-
+> #### ***[...]C'est [...] mon étendard. On peut porter ce qu'on veut, on peut être qui on veut."***
 ---
 
 _Un jour, un ancien collègue de travail a fait le lien, je ne sais toujours pas pourquoi, avec le fait que j'adorais Carlos, cet auteur-compositeur lui-même complètement décalé. Et justement, "Papayou" c'est une chanson de Carlos !_ 
