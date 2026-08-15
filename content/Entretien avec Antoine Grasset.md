@@ -187,7 +187,14 @@ ___
 >  robot ! 
 >  ![](https://youtu.be/vRAPfDSmBGM?si=clQ71IHjQtQ1Apbi&t=2520)
 >  Vous pouvez aussi découvrir juste ici [l'article de PackShot Mag](https://www.packshotmag.com/live-feeds/spline-porte-squeezie-avec-son-nouveau-bras-robot-bob/) qui détail justement la mise en oeuvre de ce nouveau robot **"Bob"**. Et rien que pour yeux, appréciez justement Antoine en train de tester l'installation avant le tournage: 
->  <iframe src="https://player.vimeo.com/video/1212354613" width="850" height="750" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen> </iframe>
+ <div style="position:relative; padding-top:177.78%;">
+  <iframe src="https://player.vimeo.com/video/1212354613?h=YOUR_HASH"
+    style="position:absolute; top:0; left:0; width:100%; height:100%;"
+    frameborder="0"
+    allow="autoplay; fullscreen; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+</div>
 
 Quand on étivait des vibrations, ce que je me souviens, ça, c'était un sujet assez épineux pour JTS-Pine. La vibration sur les mi-sements. Forcément, ça dépend. Ça, en plus, c'est un peu mystérieux, mais je vais dire, tous les objets qui bougent dans le monde réel, ils ont des viémations.
 
