@@ -12,13 +12,25 @@ draft:
 *Si je suis encore là aujourd'hui, c'est grâce à des gens comme ceux que j'y ai rencontré, qui montré que l'audiovisuel pouvait être un milieu agréable et dans lequel j'avais tout ma place. C'est donc assez logiquement que j'ai proposé à Antoine cet entretien pour le remercier, et que le monde connaisse l'existence de ce type de personnes, aussi passionnantes et mystérieuses que salvatrices.*
 
 *Cet entretien date du 9 décembre 2025.*
-#### *Bonsoir Antoine, pour commencer j'aimerais savoir qui sa cache derrière le pseudonyme Papayou ? Est-ce un saucissonphile moustachu ?*
 
-Ou une tranche de bacon géante  ? Je ne sais même pas vraiment qui a établi ce nom... Avant ça mon autre surnom c'était Pyjaman. J'avais un t-shirt d'EPS que je kiffais, avec plein de petits motifs rigolos. Et un jour, dans les vestiaires, il y a le bully de tout le monde, qui m'a vu m'habiller et me fait: "Wesh, Pijaman !"Et tout le monde à éclaté de rire et moi, je suis là, genre, "Ouais, c'est vrai !".
+---
 
-Et du coup, c'est devenu un peu mon étendard. On peut porter ce qu'on veut, on peut être qui on veut.  Et puis de fil en aiguille, car j'avais un goût pour tout ce qui n'avais aucun sens: les vidéos, les gifs,... Et je lui ai un petit blog comme ça, qui postait des trucs improbables avec mes toques. Et un de mes anciens collègues de travail, qui,  je sais pas pourquoi, a relié ça au fait que je kiffais Carlos. Qui est lui-même, est un auteur musical, un peu insensé. Et Carlos, c'est une chanson de Papayou.
+**"Bonsoir Antoine, pour commencer, j'aimerais savoir qui se cache derrière le pseudonyme Papayou. Est-ce un saucissonphile moustachu ?"**
 
-Et un jour, il a fait des petits stickers "Papayou" à mon nom avec le message : "Vous avez été papayouté, il a créé un peu une légende autour de ce mot "papayou". Et ça reste maintenant un truc qui est complètement débile et insensé. Dire "Ca c'est papayou", ça veut dire que ça n'a pas de sens. Mais je ne contrôle pas ce mot. D'ailleurs, le mot Papayou dans la chanson de Carlos, ça défini le pénis... Un jour peut être que ça me posera des problèmes, mais en tout cas, ça me fait beaucoup rire !
+_"Ou une tranche de bacon géante ! Je ne sais même pas vraiment qui a inventé ce nom... Avant ça, mon surnom c'était Pyjaman. J'avais un t-shirt d'EPS que j'adorais, plein de petits motifs rigolos. Et un jour, dans les vestiaires, le petit tyran de service m'a vu m'habiller et m'a lancé : "Wesh, Pyjaman !" Tout le monde a éclaté de rire, et moi, je me suis dit : "Ouais, c'est vrai !"_
+
+_Et petit à petit, c'est devenu un peu mon étendard. On peut porter ce qu'on veut, on peut être qui on veut. Puis, de fil en aiguille — parce que j'ai toujours eu un goût prononcé pour tout ce qui n'a aucun sens : les vidéos, les gifs... — j'ai monté un petit blog qui postait des trucs improbables avec mes potes._
+
+---
+### "[...]C'est [...] mon étendard. On peut porter ce qu'on veut, on peut être qui on veut."
+
+---
+
+_Un jour, un ancien collègue de travail a fait le lien, je ne sais toujours pas pourquoi, avec le fait que j'adorais Carlos, cet auteur-compositeur lui-même complètement décalé. Et justement, "Papayou" c'est une chanson de Carlos !_ 
+
+_Ce collègue a fini par créer des petits stickers "Papayou" à mon nom, avec le message : "Vous avez été papayoutés !" Il a construit, un peu malgré moi, une légende autour de ce mot. Et aujourd'hui, "Papayou" est devenu synonyme de quelque chose de complètement débile et insensé. Dire "ça, c'est papayou", ça veut dire que ça n'a aucun sens. Mais je ne contrôle plus vraiment ce mot..._
+
+_D'ailleurs, dans la chanson de Carlos, "papayou" désigne carrément le pénis ! Un jour, ça me posera peut-être des problèmes, mais pour l'instant, ça me fait surtout beaucoup rire !"_
  
 ### Tu parlais justement de cours d'EPS et de bully… Quels souvenirs gardes-tu de ta scolarité ?
 
