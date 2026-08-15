@@ -1,0 +1,21 @@
+properties:
+  file.name:
+    displayName: Post
+  file.ctime:
+    displayName: Creation Date
+views:
+  - type: cards
+    name: Latest Posts
+    filters:
+      and:
+        - file.tags.contains("post")
+    order:
+      - file.name
+      - file.ctime
+      - Summary
+    sort:
+      - property: file.ctime
+        direction: DESC
+    limit: 10
+    image: note.image_cover
+    imageAspectRatio: 1.45
