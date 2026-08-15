@@ -20,6 +20,8 @@ draft:
 ---
 ## **1. Le personnage**
 
+*Un sweet couvert de rennes de Noël rouge et vert ? Un mac sous le bras, accompagné de son sourire malicieux ? Vous ne rêvez pas, c'est bien Antoine. Du jonglage à Touch Designer, de quelle galaxie nous provient cet olibrius moustachu ?* 
+
 ---
 
 ### "Bonsoir Antoine, pour commencer, j'aimerais savoir qui se cache derrière le pseudonyme Papayou. Est-ce un saucissonphile moustachu ?"
@@ -156,9 +158,11 @@ ___
 ---
 ## 2. La technique
 
+*Aujourd'hui Antoine est "Motion Control PO & Operator" à Spline. C'est lui qui a conçu le système de contrôle des robots, qui a permis à Spline de devenir une référence dans le milieu du Motion Control en France. Antoine c'est le "papa" des robots...*
+
 ---
 
-* ***Première question technique, quel est le type de robots que vous utilisez et pourquoi ?***
+## **Première question technique, quel est le type de robots que vous utilisez et pourquoi ?***
 
 *On utilise principalement des robots industriels, ce sont les mêmes robots qui font de la peinture, de la gravure, déplacer des objets, et c'est justement pour ça qu'on les utilise et aussi parce que c'est des machines qu'on peut acheter et modifier. Comme elles sont utilisée en industrie à la base, ce sont des machines très fiables.* 
 
