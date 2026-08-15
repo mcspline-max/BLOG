@@ -20,12 +20,12 @@ draft:
 
 ###### **"Bonsoir Antoine, pour commencer, j'aimerais savoir qui se cache derrière le pseudonyme Papayou. Est-ce un saucissonphile moustachu ?"**
 
-*"Ou une tranche de bacon géante !(*Référence à sa photo de profil Instagram). *Je ne sais même pas vraiment qui a inventé ce nom... Avant ça, mon surnom c'était Pyjaman. J'avais un t-shirt d'EPS que j'adorais, avec plein de petits motifs rigolos. Et un jour, dans les vestiaires, le bully de tout le monde m'a vu m'habiller et m'a lancé : "Wesh, Pyjaman !" Tout le monde a éclaté de rire, et moi, je me suis dit : "Ouais, c'est vrai !"*
+*"Ou une tranche de bacon géante !*(Référence à sa photo de profil [Instagram](https://www.instagram.com/antoine.papayou/)). *Je ne sais même pas vraiment qui a inventé ce nom... Avant ça, mon surnom c'était Pyjaman. J'avais un t-shirt d'EPS que j'adorais, avec plein de petits motifs rigolos. Et un jour, dans les vestiaires, le bully de tout le monde m'a vu m'habiller et m'a lancé : "Wesh, Pyjaman !" Tout le monde a éclaté de rire, et moi, je me suis dit : "Ouais, c'est vrai !"*
 
 _Et petit à petit, c'est devenu un peu mon étendard. On peut porter ce qu'on veut, on peut être qui on veut. Puis, de fil en aiguille — parce que j'ai toujours eu un goût prononcé pour tout ce qui n'a aucun sens : les vidéos, les gifs... — j'ai monté un petit blog qui postait des trucs improbables avec mes potes._
 
 ---
-> #### ***[...]C'est [...] mon étendard. On peut porter ce qu'on veut, on peut être qui on veut."***
+> ## ***[...]C'est [...] mon étendard. On peut porter ce qu'on veut, on peut être qui on veut."***
 ---
 
 _Un jour, un ancien collègue de travail a fait le lien, je ne sais toujours pas pourquoi, avec le fait que j'adorais Carlos, cet auteur-compositeur lui-même complètement décalé. Et justement, "Papayou" c'est une chanson de Carlos !_ 
@@ -33,36 +33,38 @@ _Un jour, un ancien collègue de travail a fait le lien, je ne sais toujours pas
 _Ce collègue a fini par créer des petits stickers "Papayou" à mon nom, avec le message : "Vous avez été papayoutés !" Il a construit, un peu malgré moi, une légende autour de ce mot. Et aujourd'hui, "Papayou" est devenu synonyme de quelque chose de complètement débile et insensé. Dire "ça, c'est papayou", ça veut dire que ça n'a aucun sens. Mais je ne contrôle plus vraiment ce mot..._
 
 _D'ailleurs, dans la chanson de Carlos, "papayou" désigne carrément le pénis ! Un jour, ça me posera peut-être des problèmes, mais pour l'instant, ça me fait surtout beaucoup rire !"_
+
+ ---
+###### **"Tu parlais justement de cours d'EPS et de bully… Quels souvenirs gardes-tu de ta scolarité ?"**
+
+*Ils sont globalement bons... J'ai toujours été bon élève, un peu le chouchou des profs. Mais il y a longtemps, j'étais quand même beaucoup moins extraverti que maintenant.*
+
+*Je me suis ouvert petit à petit entre le collège et le lycée. J'ai pas eu tant de bully que ça. J'étais indifférent et j'ai ignoré tout ça quand ça m'est arrivé, donc je n'en ai pas souffert. Je n'ai pas vraiment eu de problèmes liés à ça dans ma scolarité, en tout cas, beaucoup moins que plein de gens que j'ai rencontrés.*
+
+*Au final, je m'en sortais bien, donc autant mes parents que les profs me donnaient du mou pour faire ce que je voulais. On va dire que je suis très heureux, si je devais refaire je referai pareil. Peut-être que j'ai été naïf pendant très longtemps. C'est le seul truc que je pourrais changer. J'ai l'impression que plein de gens ont compris plein de choses de la vie, bien avant moi, plusieurs années avant moi.(...) Donc je ne sais pas si je le ferais différemment.*
+
+*En tout cas, je sais que j'ai eu du bol aussi, parce que j'ai eu quelques professeurs qui étaient des gens que j'ai trouvé exceptionnels. Soit parce qu'ils m'ont donné envie d'apprendre des trucs, ou alors parce qu'ils avaient une passion, que je respectais.*
+
+*Je suis passionné par les gens passionnés. Qu'importe ce qui les passionne. Si ton kiff c'est les trains miniatures, je veux que tu m'emmène chez toi pour voir ton train miniature.*
+
+*Il y a des gens qui ont une passion, ils ont cette étincelle, que tu ne peux pas acheter ni inventer. Tu peux pas l'acheter sur Amazon. Alors, même si tu peux changer ta personnalité, tu ne peux pas changer tes passions. Et du coup, quand les gens ont une, et qu'ils la montrent, quand ils entrouvrent cette fenêtre, j'adore.* 
+
+*Ma scolarité, m'a donné champs libre à toutes mes passions, et elle m'a fait comprendre que les gens en avaient aussi. Par contre, je ne sais pas si elle m'a appris beaucoup de choses qui me servent dans la vie en ce moment…*
+
+___
+
+> ## *"Je suis passionné par les gens passionnés. Qu'importe ce qui les passionne."*
+
+---
+###### **"A quoi jouais tu quand tu étais enfant ?"**
  
-### Tu parlais justement de cours d'EPS et de bully… Quels souvenirs gardes-tu de ta scolarité ?
+*J'ai été le gamin qui avait des périodes avec mille passions. J'ai eu une énorme passion pour le jonglage, qui m'a amener à postuler à l'école du Cirque de Montréal pour faire de compétions assez avancées.*
 
-Ils sont globalement bons... J'ai toujours été bon élève, un peu le chouchou des profs. Mais il y a longtemps, j'étais quand même beaucoup moins extraverti que maintenant.
+*Et puis après, j'ai arrêté ça, j'ai fait du tir à carbine, et puis après, j'ai fait des tennis de table. Et après, j'ai arrêté ça, j'ai fait du yo-yo, du finger-skate, du skateboard…* 
 
-Je me suis ouvert petit à petit entre le collège et le lycée. J'ai pas eu tant de bully que ça. J'étais indifférent et j'ai ignoré tout ça quand ça m'est arrivé, donc je n'en ai pas souffert. Je n'ai pas vraiment eu de problèmes liés à ça dans ma scolarité, en tout cas, beaucoup moins que plein de gens que j'ai rencontrés.
+*En tout cas, j'ai eu mille passions étant enfant et elles restent toutes un peu avec moi aujourd'hui. Comme j'ai eu plein de passions, si ça ne marchait pas bien, c'était pas grave. Comme j'en ai eu beaucoup,* ***je ne me suis jamais dit qu'il fallait que j'en fasse ma vie, ou que c'était hyper important.*** *Il y a plein de gens qui font du cheval et il faut absolument que ça marche, ou la gymnastique, il faut absolument que ça réussisse. Moi, il n'y avait aucune pression, je pouvais switcher pour finalement y revenir plus tard.*
 
-Au final, je m'en sortais bien, donc autant mes parents que les profs me donnaient du mou pour faire ce que je voulais. On va dire que je suis très heureux, si je devais refaire je referai pareil. Peut-être que j'ai été naïf pendant très longtemps. C'est le seul truc que je pourrais changer. 
-
-J'ai l'impression que plein de gens ont compris plein de choses de la vie, bien avant moi, plusieurs années avant moi.(...) Et après, je suis pourtant comme je suis. Donc je ne sais pas si je le ferais différemment. En tout cas, je sais que j'ai eu du bol aussi, parce que j'ai eu quelques professeurs qui étaient des gens que j'ai trouvé exceptionnels. Soit parce qu'ils m'ont donné envie d'apprendre des trucs, ou alors parce qu'ils avaient une passion, que je respectais. 
-
-Je suis passionné par les gens passionnés. Qu'importe ce qui les passionne. Si ton kiff c'est les trains miniatures. Je veux que tu m'emmène chez toi pour voir ton train miniature.
-
-Il y a des gens qui ont une passion, ils ont cette étincelle, que tu ne peux pas acheter ni inventer. Tu peux pas l'acheter sur Amazon. Alors que même si tu peux changer ta personnalité, tu ne peux pas changer tes passions. Et du coup, quand les gens ont une, et qu'ils la montrent, quand ils entrouvrent cette fenêtre, j'adore. 
-
-Ma scolarité, m'a donné champs libre à toutes mes passions, et elle m'a fait comprendre les gens en avaient aussi. Par contre, je ne sais pas si elle m'a appris beaucoup de choses qui me servent dans la vie en ce moment…
-
-### *A quoi jouais tu quand tu étais enfant ?*
- 
-J'ai été le gamin qui avait des périodes avec mille passions. J'ai eu une énorme passion pour le jonglage, qui m'a amener à postuler à l'école du Cirque de Montréal pour faire de compétions assez avancées.
-
-Et puis après, j'ai arrêté ça, j'ai fait du tir à carbine, et puis après, j'ai fait des tennis de table. Et après, j'ai arrêté ça, j'ai fait du yo-yo, du fingerskate, du skateboard… 
-
-
-
-En tout cas, j'ai eu mille passions étant enfant et elles restent toutes un peu avec moi aujourd'hui. Comme j'ai eu plein de passions, si ça ne marchait pas bien, c'était pas grave. Comme j'en ai eu beaucoup, je ne me suis jamais dit qu'il fallait que j'en fasse ma vie, ou que c'était hyper important. Il y a plein de gens qui font du cheval et il faut absolument que ça marche, ou la gymnastique, il faut absolument que ça réussisse. Moi, il n'y avait aucune pression, je pouvais switcher pour finalement y revenir plus tard.
-
-
-
-Ca m'a donné les occasions d'explorer, d'apprendre plein de choses, et je me suis aperçu qu'apprendre, je kiffais, même apprendre de zéro. Apprendre un nouveau truc, ça pouvait être une passion en soi. Je voyais quelqu'un faire un truc et je me disais que c'était cool, j'allais l'apprendre. Ca a facilité plein de trucs par la suite, en ayant certaines ouvertures, vers les choses, vers les gens, et vers les pratiques. 
+*Ca m'a donné les occasions d'explorer, d'apprendre plein de choses, et je me suis aperçu qu'apprendre, je kiffais, même apprendre de zéro. **Apprendre un nouveau truc, ça pouvait être une passion en soi.** Je voyais quelqu'un faire un truc et je me disais que c'était cool, j'allais l'apprendre. Ça a facilité plein de trucs par la suite, en ayant certaines ouvertures, vers les choses, vers les gens, et vers les pratiques.* 
 
 
 
