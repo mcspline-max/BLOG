@@ -18,4 +18,4 @@ views:
         direction: DESC
     limit: 10
     image: note.image_cover
-    imageAspectRatio: 0.7
+    imageAspectRatio: 1.45
