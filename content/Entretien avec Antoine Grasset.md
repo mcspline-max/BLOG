@@ -6,7 +6,7 @@ image_cover:
 draft:
 ---
 ---
-## Pour la petite histoire...
+###### **Pour la petite histoire...**
 
 *J'ai rencontré Antoine Grasset lorsque que j'étais en alternance chez Spline. Le courant est tout de suite passé avec ce drôle d'énergumène, aussi à l'aise derrière un appareil photo que d'un robot industriel de 2 tonnes...* 
 
@@ -34,7 +34,7 @@ _Ce collègue a fini par créer des petits stickers "Papayou" à mon nom, avec l
 
 _D'ailleurs, dans la chanson de Carlos, "papayou" désigne carrément le pénis ! Un jour, ça me posera peut-être des problèmes, mais pour l'instant, ça me fait surtout beaucoup rire !"_
 
- ---
+---
 ###### **"Tu parlais justement de cours d'EPS et de bully… Quels souvenirs gardes-tu de ta scolarité ?"**
 
 *Ils sont globalement bons... J'ai toujours été bon élève, un peu le chouchou des profs. Mais il y a longtemps, j'étais quand même beaucoup moins extraverti que maintenant.*
@@ -58,56 +58,40 @@ ___
 ---
 ###### **"A quoi jouais tu quand tu étais enfant ?"**
  
-*J'ai été le gamin qui avait des périodes avec mille passions. J'ai eu une énorme passion pour le jonglage, qui m'a amener à postuler à l'école du Cirque de Montréal pour faire de compétions assez avancées.*
-
-*Et puis après, j'ai arrêté ça, j'ai fait du tir à carbine, et puis après, j'ai fait des tennis de table. Et après, j'ai arrêté ça, j'ai fait du yo-yo, du finger-skate, du skateboard…* 
+*J'ai été le gamin qui avait des périodes avec mille passions. J'ai eu une énorme passion pour le jonglage, qui m'a amener à postuler à l'école du Cirque de Montréal pour faire de compétions assez avancées. Et puis après, j'ai arrêté ça, j'ai fait du tir à carbine, et puis après, j'ai fait des tennis de table. Et après, j'ai arrêté ça, j'ai fait du yo-yo, du finger-skate, du skateboard…* 
 
 *En tout cas, j'ai eu mille passions étant enfant et elles restent toutes un peu avec moi aujourd'hui. Comme j'ai eu plein de passions, si ça ne marchait pas bien, c'était pas grave. Comme j'en ai eu beaucoup,* ***je ne me suis jamais dit qu'il fallait que j'en fasse ma vie, ou que c'était hyper important.*** *Il y a plein de gens qui font du cheval et il faut absolument que ça marche, ou la gymnastique, il faut absolument que ça réussisse. Moi, il n'y avait aucune pression, je pouvais switcher pour finalement y revenir plus tard.*
 
 *Ca m'a donné les occasions d'explorer, d'apprendre plein de choses, et je me suis aperçu qu'apprendre, je kiffais, même apprendre de zéro. **Apprendre un nouveau truc, ça pouvait être une passion en soi.** Je voyais quelqu'un faire un truc et je me disais que c'était cool, j'allais l'apprendre. Ça a facilité plein de trucs par la suite, en ayant certaines ouvertures, vers les choses, vers les gens, et vers les pratiques.* 
 
+---
+###### ***Qu'est-ce que t'a apporté le jonglage et le cirque ?***
 
+*Le cirque, comme j'en faisais 8 heures par jour ça a m'a donné mes premiers muscles à une époque ou je ne faisais que des jeux vidéos. Ça m'a donné la persévérance, parce que ça m'a pris que si tu ratais plein de fois, tu finirais par réussir. Souvent, on a peur de se foirer. On a envie de faire le truc bien la première fois. C'est pas possible de bien jongler du premier coup. Tu vas faire tomber tes balles 1000 fois avant d'avoir réussi ton truc.* ***Donc ça brise un peu ton égo, ça te donne de l'humilité, mais aussi la conviction que si tu continues, ça va s'améliorer, tu vas réussir petit à petit.***
 
-* ***Qu'est-ce que t'a apporté le jonglage et le cirque ?***
+*J'aime pas trop les activités où tu peux la faire qu'une fois, où tu n'as pas l'occasion de répéter. Et ça, c'est condamnable. Ca s'applique même au code, qui est la dernière passion que j'ai appris. Tu fais jusqu'à ce que ça marche, un million de fois le même truc… C'est une obsession. **Je pense que les passions, ça apprend l'obsession.***
 
+---
+###### **"Où as-tu grandi ?"***
 
+*Je suis originaire d'un petit village dans l'Ain. A mi-chemin entre Lyon et Genève, dans les petites montagnes de l'Ain et de Jura, au porte du Buget. Mon village s'appelle Vésia, c'est à côté d'une ville à peine plus grande, qui s'appelle Oyonnax. C'est connu pour le rugby et il y a d'autres routes qui passent.* 
 
-Le cirque, comme j'en faisais 8 heures par jour ça a m'a donné mes premiers muscles à une époque ou je ne faisais que des jeux vidéos. Ça m'a donné la persévérance, parce que ça m'a pris que si tu ratais plein de fois, tu finirais par réussir. Souvent, on a peur de se foirer. On a envie de faire le truc bien la première fois. C'est pas possible de bien jongler du premier coup. Tu vas faire tomber tes balles 1000 fois avant d'avoir réussi ton truc. Donc ça brise un peu ton égo, ça te donne de l'humilité, mais aussi la conviction que si tu continues, ça va s'améliorer, tu vas réussir petit à petit.
+*Mais donc voilà, dans un petit village où il y avait 700 habitants, il y avait mon école primaire et mes copains. Et après l'école primaire, il fallait aller en ville pour le collège et le lycée. Mais donc je viens quand même dans une petite montagne où il y a régulièrement de la neige,(...)Ça annonçait du lourd. Maintenant, c'est plus trop ça...*
 
+---
+###### **"J'ai aussi cru comprendre que la musique avait joué un rôle très important dans ta vie ?"**
 
+*Je crois que, comme pour tout le monde, la musique a un rôle important dans nos vies, c'est un peu la bande-son du film. Quand tu mets tes écouteurs en sortant de chez toi, ça va changer le film, changer ton mood et comment tu réagis face au choses qui viennent.*
 
-J'aime pas trop les activités où tu peux la faire qu'une fois, où tu n'as pas l'occasion de répéter. Et ça, c'est condamnable. Ca s'applique même au code, qui est la dernière passion que j'ai appris. Tu fais jusqu'à ce que ça marche, un million de fois le même truc… C'est une obsession. Je pense que les passions, ça apprend l'obsession.
+*Mon père a toujours fait de la musique, même si il ne savait pas lire une partition. Il fait de la guitare et du piano et même si ces instruments ne m'attiraient pas, rien que voir quelqu'un faire de la musique, ça m'a donné envie d'en faire.*
 
+***Par hasard quand j'avais 8 ans, l'ami d'une cousine a joué de saxophone devant moi et j'ai fait "Ho!". C'était pendant l'été et en Septembre j'étais inscrit au conservatoire. J'en ai fait pendant 12 ans...**
 
+*Peut-être que la musique a été ma seule passion où j'ai ressenti de la pression. Au bout de 5 ans de conservatoire, tu te dis qu'il faut continuer coûte que coûte. Et un jour, je me suis dit "J'ai fait mon chemin.", et j'ai arrêté le saxophone.* ***J'ai joué une dernière fois, je l'ai rangé dans sa boîte et je l'ai vendu.***
 
-* ***Où as-tu grandi ?***
+*Mais entre temps j'ai appris d'autres instruments: de la batterie, de la guitare, de la trompette... Et après c'était facile, tu me montrais où était le do, et il fallait "juste" y passer quelques heures...*
 
-
-
-Je suis originaire d'un petit village dans l'Ain. A mi-chemin entre Lyon et Genève, dans les petites montagnes de l'Ain et de Jura, au porte du Buget. Mon village s'appelle Vésia, c'est à côté d'une ville à peine plus grande, qui s'appelle Oyonnax. C'est connu pour le rugby et il y a d'autres routes qui passent. Mais donc voilà,
-
-
-
-(...)
-
-
-
-dans un petit village où il y avait 700 habitants, il y avait mon école primaire et mes copains. Et après l'école primaire, il fallait aller en ville pour le collège et le lycée. Mais donc je sais quand même dans une petite montagne où il y a régulièrement de la neige,(...) la néochunée, il y avait un mètre de neige. Voilà. Ça annonçait du lourd. Maintenant, c'est plus trop ça.
-
-* ***J'ai aussi cru comprendre que la musique avait jouer un rôle très important dans ta vie ?***
-
-
-Je crois que, comme pour tout le monde, la musique a un rôle important dans nos vies, c'est un peu la bande-son du film. Quand tu mets tes écouteurs en sortant de chez toi, ça va changer le film, changer ton mood et comment tu réagis face au choses qui viennent.
-
-Mon père a toujours fait de la musique, même si il ne savait pas lire une partition. Il fait de la guitare et du piano et même si ces instruments ne m'attiraient pas, rien que voir quelqu'un faire de la musique, c'est ça qui m'a donné envie d'en faire.
-
-Et un jour, par hasard quand j'avais 8 ans, l'ami d'une cousine a joué de saxophone devant moi et j'ai fait "HO!". C'était pendant l'ét et en Septembre j'étais inscrit au conservatoire. J'en ai fait pendant 12 ans.
-
-Peut-être que la musique a été ma seule passion où j'ai ressenti de la pression. Au bout de 5 ans de conservatoire, tu te dis qu'il faut continuer coûte que coûte. Et un jour, je me suis dit "J'ai fait mon chemin.", et j'ai arrêté le saxophone. J'ai joué une dernière fois, je l'ai rangé dans sa boîte et je l'ai vendu.
-
-Mais entre temps j'ai appris d'autres instruments: de la batterie, de la guitare, de la trompette... Et après c'était facile, tu me montrais où était le do, et il fallait "juste" y passer quelques heures...
-
-La musique m'a donné accès à un monde qui m'intéressait, avec des gens qui ont leur univers, et peuvent inventer n'importe quoi, se mettre en scène et ramener des gens. Tu te retrouves face à quelque chose qui va faire réagir le monde réel. J'ai longtemps cherché ma place dans ce monde, même si j'ai vite compris que je n'était pas un virtuose de la musique, j'aimais beacoup être dans des groupes, mais je savais que je n'en ferais pas ma vie. 
+*La musique m'a donné accès à un monde qui m'intéressait, avec des gens qui ont leur univers, et peuvent inventer n'importe quoi, se mettre en scène et ramener des gens. Tu te retrouves face à quelque chose qui va faire réagir le monde réel. J'ai longtemps cherché ma place dans ce monde, même si j'ai vite compris que je n'était pas un virtuose de la musique, j'aimais beacoup être dans des groupes, mais je savais que je n'en ferais pas ma vie.* 
 
 * ***Comment est-ce que la photo est rentrée dans ta vie ?***
 
@@ -121,9 +105,9 @@ Passer de la musique à la photo a été assez naturel, je trouve que toutes ce 
 
 On s'est rencontré par le jonglage, de manière improbable sur un forum dédié au jonglage, jongle.net, à l'époque du 56K... On était les deux seuls personnes dans le département, et un jour il m'a envoyé un message, et on s'est rencontré. Aujourd'hui c'est encore mon meilleur ami, il habite à deux pas de chez moi. On se connait depuis plus de 20 ans !
 
-* ***Dans toutes les activité que tu as fais(peut être un peu moins avec la photo), il y a quand même l'idée de performer, et de la faire pour une audience. Est-ce que tu prends un plaisir à livrer une perfomance ?***
+* ***Dans toutes les activité que tu as fais(peut être un peu moins avec la photo), il y a quand même l'idée de performer, et de la faire pour une audience. Est-ce que tu prends un plaisir à livrer une performance ?***
 
-Il y a un petit paradoxe. Je ne suis vraiment pas fan de performer, que ça soit mon nom en heut de l'affiche, être moi le N°1 en haut de l'affiche, alors que comme tu dis, j'ai fais plein de trucs avec la performance.
+Il y a un petit paradoxe. Je ne suis vraiment pas fan de performer, que ça soit mon nom en haut de l'affiche, être moi le N°1 en haut de l'affiche, alors que comme tu dis, j'ai fais plein de trucs avec la performance.
 
 Je crois que j'ai toujours préféré être dans l'ombre, d'un groupe par exemple. Et quand je faisais quelque chose en solo, c'était pour mes meilleurs amis, par pour l'adulation d'un publique. 
 
