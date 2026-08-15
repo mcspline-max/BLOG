@@ -18,7 +18,7 @@ draft:
 
 ---
 
-###### **"Bonsoir Antoine, pour commencer, j'aimerais savoir qui se cache derrière le pseudonyme Papayou. Est-ce un saucissonphile moustachu ?"**
+### **"Bonsoir Antoine, pour commencer, j'aimerais savoir qui se cache derrière le pseudonyme Papayou. Est-ce un saucissonphile moustachu ?"**
 
 *"Ou une tranche de bacon géante !*(Référence à sa photo de profil [Instagram](https://www.instagram.com/antoine.papayou/)). *Je ne sais même pas vraiment qui a inventé ce nom... Avant ça, mon surnom c'était Pyjaman. J'avais un t-shirt d'EPS que j'adorais, avec plein de petits motifs rigolos. Et un jour, dans les vestiaires, le bully de tout le monde m'a vu m'habiller et m'a lancé : "Wesh, Pyjaman !" Tout le monde a éclaté de rire, et moi, je me suis dit : "Ouais, c'est vrai !"*
 
@@ -35,7 +35,7 @@ _Ce collègue a fini par créer des petits stickers "Papayou" à mon nom, avec l
 _D'ailleurs, dans la chanson de Carlos, "papayou" désigne carrément le pénis ! Un jour, ça me posera peut-être des problèmes, mais pour l'instant, ça me fait surtout beaucoup rire !"_
 
 ---
-###### **"Tu parlais justement de cours d'EPS et de bully… Quels souvenirs gardes-tu de ta scolarité ?"**
+### Tu parlais justement de cours d'EPS et de bully… Quels souvenirs gardes-tu de ta scolarité ?" {data-toc="Quels souvenirs gardes-tu de ta scolarité ?"}
 
 *Ils sont globalement bons... J'ai toujours été bon élève, un peu le chouchou des profs. Mais il y a longtemps, j'étais quand même beaucoup moins extraverti que maintenant.*
 
@@ -56,7 +56,7 @@ ___
 > ## *"Je suis passionné par les gens passionnés. Qu'importe ce qui les passionne."*
 
 ---
-###### **"A quoi jouais tu quand tu étais enfant ?"**
+### **"A quoi jouais tu quand tu étais enfant ?"**
  
 *J'ai été le gamin qui avait des périodes avec mille passions. J'ai eu une énorme passion pour le jonglage, qui m'a amener à postuler à l'école du Cirque de Montréal pour faire de compétions assez avancées. Et puis après, j'ai arrêté ça, j'ai fait du tir à carbine, et puis après, j'ai fait des tennis de table. Et après, j'ai arrêté ça, j'ai fait du yo-yo, du finger-skate, du skateboard…* 
 
@@ -65,7 +65,7 @@ ___
 *Ca m'a donné les occasions d'explorer, d'apprendre plein de choses, et je me suis aperçu qu'apprendre, je kiffais, même apprendre de zéro. **Apprendre un nouveau truc, ça pouvait être une passion en soi.** Je voyais quelqu'un faire un truc et je me disais que c'était cool, j'allais l'apprendre. Ça a facilité plein de trucs par la suite, en ayant certaines ouvertures, vers les choses, vers les gens, et vers les pratiques.* 
 
 ---
-###### ***Qu'est-ce que t'a apporté le jonglage et le cirque ?***
+### ***"Qu'est-ce que t'a apporté le jonglage et le cirque ?"***
 
 *Le cirque, comme j'en faisais 8 heures par jour ça a m'a donné mes premiers muscles à une époque ou je ne faisais que des jeux vidéos. Ça m'a donné la persévérance, parce que ça m'a pris que si tu ratais plein de fois, tu finirais par réussir. Souvent, on a peur de se foirer. On a envie de faire le truc bien la première fois. C'est pas possible de bien jongler du premier coup. Tu vas faire tomber tes balles 1000 fois avant d'avoir réussi ton truc.* ***Donc ça brise un peu ton égo, ça te donne de l'humilité, mais aussi la conviction que si tu continues, ça va s'améliorer, tu vas réussir petit à petit.***
 
