@@ -22,11 +22,7 @@ draft:
 
 *"Ou une tranche de bacon géante !*(Référence à sa photo de profil [Instagram](https://www.instagram.com/antoine.papayou/)). *Je ne sais même pas vraiment qui a inventé ce nom... Avant ça, mon surnom c'était Pyjaman. J'avais un t-shirt d'EPS que j'adorais, avec plein de petits motifs rigolos. Et un jour, dans les vestiaires, le bully de tout le monde m'a vu m'habiller et m'a lancé : "Wesh, Pyjaman !" Tout le monde a éclaté de rire, et moi, je me suis dit : "Ouais, c'est vrai !"*
 
-_Et petit à petit, c'est devenu un peu mon étendard. On peut porter ce qu'on veut, on peut être qui on veut. Puis, de fil en aiguille — parce que j'ai toujours eu un goût prononcé pour tout ce qui n'a aucun sens : les vidéos, les gifs... — j'ai monté un petit blog qui postait des trucs improbables avec mes potes._
-
----
-> ## ***[...]C'est [...] mon étendard. On peut porter ce qu'on veut, on peut être qui on veut."***
----
+_**Et petit à petit, c'est devenu un peu mon étendard. On peut porter ce qu'on veut, on peut être qui on veut.** Puis, de fil en aiguille — parce que j'ai toujours eu un goût prononcé pour tout ce qui n'a aucun sens : les vidéos, les gifs... — j'ai monté un petit blog qui postait des trucs improbables avec mes potes._
 
 _Un jour, un ancien collègue de travail a fait le lien, je ne sais toujours pas pourquoi, avec le fait que j'adorais Carlos, cet auteur-compositeur lui-même complètement décalé. Et justement, "Papayou" c'est une chanson de Carlos !_ 
 
@@ -35,7 +31,7 @@ _Ce collègue a fini par créer des petits stickers "Papayou" à mon nom, avec l
 _D'ailleurs, dans la chanson de Carlos, "papayou" désigne carrément le pénis ! Un jour, ça me posera peut-être des problèmes, mais pour l'instant, ça me fait surtout beaucoup rire !"_
 
 ---
-### Tu parlais justement de cours d'EPS et de bully… Quels souvenirs gardes-tu de ta scolarité ?" {data-toc="Quels souvenirs gardes-tu de ta scolarité ?"}
+### ***Tu parlais justement de cours d'EPS et de bully… Quels souvenirs gardes-tu de ta scolarité ?"***
 
 *Ils sont globalement bons... J'ai toujours été bon élève, un peu le chouchou des profs. Mais il y a longtemps, j'étais quand même beaucoup moins extraverti que maintenant.*
 
@@ -56,7 +52,7 @@ ___
 > ## *"Je suis passionné par les gens passionnés. Qu'importe ce qui les passionne."*
 
 ---
-### **"A quoi jouais tu quand tu étais enfant ?"**
+### ***"A quoi jouais tu quand tu étais enfant ?"***
  
 *J'ai été le gamin qui avait des périodes avec mille passions. J'ai eu une énorme passion pour le jonglage, qui m'a amener à postuler à l'école du Cirque de Montréal pour faire de compétions assez avancées. Et puis après, j'ai arrêté ça, j'ai fait du tir à carbine, et puis après, j'ai fait des tennis de table. Et après, j'ai arrêté ça, j'ai fait du yo-yo, du finger-skate, du skateboard…* 
 
@@ -72,14 +68,14 @@ ___
 *J'aime pas trop les activités où tu peux la faire qu'une fois, où tu n'as pas l'occasion de répéter. Et ça, c'est condamnable. Ca s'applique même au code, qui est la dernière passion que j'ai appris. Tu fais jusqu'à ce que ça marche, un million de fois le même truc… C'est une obsession. **Je pense que les passions, ça apprend l'obsession.***
 
 ---
-###### **"Où as-tu grandi ?"***
+### ***"Où as-tu grandi ?"***
 
 *Je suis originaire d'un petit village dans l'Ain. A mi-chemin entre Lyon et Genève, dans les petites montagnes de l'Ain et de Jura, au porte du Buget. Mon village s'appelle Vésia, c'est à côté d'une ville à peine plus grande, qui s'appelle Oyonnax. C'est connu pour le rugby et il y a d'autres routes qui passent.* 
 
 *Mais donc voilà, dans un petit village où il y avait 700 habitants, il y avait mon école primaire et mes copains. Et après l'école primaire, il fallait aller en ville pour le collège et le lycée. Mais donc je viens quand même dans une petite montagne où il y a régulièrement de la neige,(...)Ça annonçait du lourd. Maintenant, c'est plus trop ça...*
 
 ---
-###### **"J'ai aussi cru comprendre que la musique avait joué un rôle très important dans ta vie ?"**
+### ***"J'ai aussi cru comprendre que la musique avait joué un rôle très important dans ta vie ?"***
 
 *Je crois que, comme pour tout le monde, la musique a un rôle important dans nos vies, c'est un peu la bande-son du film. Quand tu mets tes écouteurs en sortant de chez toi, ça va changer le film, changer ton mood et comment tu réagis face au choses qui viennent.*
 
@@ -93,47 +89,54 @@ ___
 
 *La musique m'a donné accès à un monde qui m'intéressait, avec des gens qui ont leur univers, et peuvent inventer n'importe quoi, se mettre en scène et ramener des gens. Tu te retrouves face à quelque chose qui va faire réagir le monde réel. J'ai longtemps cherché ma place dans ce monde, même si j'ai vite compris que je n'était pas un virtuose de la musique, j'aimais beacoup être dans des groupes, mais je savais que je n'en ferais pas ma vie.* 
 
-* ***Comment est-ce que la photo est rentrée dans ta vie ?***
+---
+### ***"Comment est-ce que la photo est rentrée dans ta vie ?"***
 
-A ce moment j'étais à la fac de musique, et c'est à partir de là où j'ai commencé à transitionner du son vers l'image, en commencant à faire des photos de musiciens. J'étais toujours dans cet univers, mais au lieu de jouer j'y faisait des photos. Donc d'une part par la musique, mais aussi grâce à mon meilleur ami, Pierre Morel.
+*A ce moment j'étais à la fac de musique, et c'est à partir de là où j'ai commencé à transitionner du son vers l'image, en commencant à faire des photos de musiciens. J'étais toujours dans cet univers, mais au lieu de jouer j'y faisait des photos. Donc d'une part par la musique, mais aussi grâce à mon meilleur ami, Pierre Morel.*
 
-Pierre faisait de la photo bien avant moi, moi je faisais de cours-métrage avec ma soeur, et quand j'ai vu la photo, je me suis dit que c'était fou et qu'il fallait que j'essaie. C'est donc la collision du jonglage, de la musique et de cette rencontre qui m'y on ammené.
+*Pierre faisait de la photo bien avant moi, moi je faisais de cours-métrages avec ma soeur, et quand j'ai vu la photo, je me suis dit que c'était fou et qu'il fallait que j'essaie. C'est donc la collision du jonglage, de la musique et de cette rencontre qui m'y on amené.*
 
-Passer de la musique à la photo a été assez naturel, je trouve que toutes ce discipline se ressemble. La musique est un signal, il peut s'atturer ou être trop faible, de la même manière que pour une photo, surexposée ou sous-exposée. Une expo-photo c'est une suite d'image, comme une suite de note peut être une chanson, ça reste une histoire, plein de concepts peuvent être transposé d'un domaine à l'autre.
+ >***"Comment vous êtes-vous rencontré avec Pierre ?"***
+>
+> *On s'est rencontré par le jonglage, de manière improbable sur un forum dédié au jonglage "jongle.net" à l'époque du 56K... On était les deux seuls personnes dans le département, et un jour il m'a envoyé un message, et on s'est rencontré. Aujourd'hui c'est encore mon meilleur ami, il habite à deux pas de chez moi. On se connait depuis plus de 20 ans !*
 
-* ***Comment vous êtes-vous rencontré avec Pierre ?***
+*Passer de la musique à la photo a été assez naturel, je trouve que toutes ce discipline se ressemble. La musique est un signal, il peut saturer ou être trop faible, de la même manière que pour une photo, surexposée ou sous-exposée. Une expo-photo c'est une suite d'image, comme une suite de note peut être une chanson, ça reste une histoire, plein de concepts peuvent être transposé d'un domaine à l'autre.*
 
-On s'est rencontré par le jonglage, de manière improbable sur un forum dédié au jonglage, jongle.net, à l'époque du 56K... On était les deux seuls personnes dans le département, et un jour il m'a envoyé un message, et on s'est rencontré. Aujourd'hui c'est encore mon meilleur ami, il habite à deux pas de chez moi. On se connait depuis plus de 20 ans !
+---
+### ***Dans toutes les activité que tu as fais(peut être un peu moins avec la photo), il y a quand même l'idée de performer, et de la faire pour une audience. Est-ce que tu prends un plaisir à livrer une performance ?***
 
-* ***Dans toutes les activité que tu as fais(peut être un peu moins avec la photo), il y a quand même l'idée de performer, et de la faire pour une audience. Est-ce que tu prends un plaisir à livrer une performance ?***
+*Il y a un petit paradoxe. Je ne suis vraiment pas fan de performer, que ça soit mon nom en haut de l'affiche, être moi le N°1 en haut de l'affiche, alors que comme tu dis, j'ai fais plein de trucs avec la performance. Je crois que j'ai toujours préféré être dans l'ombre, d'un groupe par exemple. Et quand je faisais quelque chose en solo, c'était pour mes meilleurs amis, par pour l'adulation d'un publique.* 
 
-Il y a un petit paradoxe. Je ne suis vraiment pas fan de performer, que ça soit mon nom en haut de l'affiche, être moi le N°1 en haut de l'affiche, alors que comme tu dis, j'ai fais plein de trucs avec la performance.
+*Je pense que j'ai un petit côté autiste quelque part, et du coup créer un moment de discussion ça a été longtemps compliqué pour moi. Et ça a été plsu facile de le créer avec une activité. Par exemple jongler avec quelqu'un, ou faire de la musique entre amis. Je pense que ça c'était des moment beaucoup plus sympa pour moi que de faire un concert ou un spectable.*
 
-Je crois que j'ai toujours préféré être dans l'ombre, d'un groupe par exemple. Et quand je faisais quelque chose en solo, c'était pour mes meilleurs amis, par pour l'adulation d'un publique. 
+*Et ce que je fais en film aujourd'hui, il n'y a pas vraiment de public, au du moins il est séparé de moi. Je suis plus intéressé par les techniciens qui vont venir me voir, ou un réal qui me dit avoir adoré comment on a bossé ensemble. Tout ça m'intéresse plus que ma vidéo est virale, le film a fait du chiffre...*
 
-Je pense que j'ai un petit côté autiste quelque part, et du coup créer un moment de discussion ça a été longtemps compliqué pour moi. Et ça a été plsu facile de le créer avec une activité. Par exemple jongler avec quelqu'un, ou faire de la musique entre amis. Je pense que ça c'était des moment beaucoup plus sympa pour moi que de faire un concert ou un spectable.
+---
+### ***Est-ce que tu as eu des mentors en photo ?***
 
-Et ce que je fais en film aujourd'hui, il n'y a pas vraiment de public, au du moins il est séparé de moi. Je suis plus intéressé par les techniciens qui vont venir me voir, ou un réal qui me dit avoir adoré comment on a bossé ensemble. Tout ça m'intéresse plus que ma vidéo est virale, le film a fait du chiffre...
+*Je pense qu'avec Pierre il y avait cette volonté pour chacun de faire mieux que l'autre, et à pousser l'autre à aller plus loin. Donc je pense effectivement que c'est mon mentor numéro un .*
 
-* ***Est-ce que tu as eu des mentors en photo ?***
+*Après j'en ai eu plein, mais il ne le savent pas forcément. Avoir suivit des gens cools sur internet, avoir vu le travail d'autres photographes m'a forcément aidé. Mais j'ai rarement eu des gens avec qui j'ai parlé plusieurs fois, avec qui j'ai crée une relation et qui m'aurait transmis des choses. J'ai beaucoup appris en bricolant tout seul, ou alors avec des discussions en one-shot, de personnes qui racontent leur expérience et moi je rentre chez moi en me disant qu'il faut retenir "**ça**".*
 
-Je pense qu'avec Pierre il y avait cette volonté pour chaun de faire mieux que l'autre, et à pousser l'autre à aller plus loin. Donc je pense effectivement que c'est mon mentor numéro un .
+---
 
-Après j'en ai eu plein, mais il ne le savent pas forcément. Avoir suivit des gens cools sur internet, avoir vu le travail d'autre photographe m'ont forcément aidé. Mais j'ai rarement eu des gens avec qui j'ai parlé plusieurs fois, avec qui j'ai crée une relation et qui m'aurait transmis des choses. J'ai beaucoup appris en bricolant tout seul, ou alors avec des discussions en one-shot, de personnes qui racontent leur expérience et moi je rentre chez moi en me disant qu'il faut retenir "ça".
+> # *"J'ai beaucoup appris en bricolant tout seul,[...]de personnes qui racontent leur expérience[...]"*
 
-* ***Si tu devais choisir pour le reste de ta vie un boitier + optique, quelle serait la combinaison parfaite selon toi ?***
+---
+### ***Si tu devais choisir pour le reste de ta vie un boitier + optique, quelle serait la combinaison parfaite selon toi ?***
 
-Oh boy, ça fait longtemps que j'ai pas eu de boitier avec des optique interchangeables. Pendant longtemps je n'ai juré que par le réflex avec des objectifs. Tu dois enlever des vêtements de ta valise pour y mettre des objectifs, et je crois qu'en chemin j'arrive juste à me contenter d'un smartphone. Comme on dit le meilleur appareil c'est celui qu'on a avec soi.
+*Oh boy, ça fait longtemps que j'ai pas eu de boitier avec des optique interchangeables. Pendant longtemps je n'ai juré que par le réflex avec des objectifs. Tu dois enlever des vêtements de ta valise pour y mettre des objectifs, et je crois qu'en chemin j'arrive juste à me contenter d'un smartphone. Comme on dit le meilleur appareil c'est celui qu'on a avec soi.*
 
-Je pense que je pourrais faire ma vie avec un smartphone, et si ça devient trop compliqué, je prendrais un petit appareil genre un Fuji X100, un petit truc avec un 35mm et voilà. Je pense dans tous les cas qu'un appareil discret et que tu as avec toi est beaucoup plus important que les possibilitées techniques qu'un appareil X ou Y apporte.
+*Je pense que je pourrais faire ma vie avec un smartphone, et si ça devient trop compliqué, je prendrais un petit appareil genre un Fuji X100, un petit truc avec un 35mm et voilà. Je pense dans tous les cas qu'un appareil discret et que tu as avec toi est beaucoup plus important que les possibilités techniques qu'un appareil X ou Y apporte.*
 
-* ***Tu pratiques encore ?***
+---
+### ***Tu pratiques encore ?***
 
-Avec mon iPhone, de temps en temps j'arrive à sortir une photo un peu meilleure que les autres, et je fais une petite post-prod qui va bien, mais c'est à peu près tout... J'ai fais la photo parce que ça a été mon premier vrai job, j'ai gagné mes premiers euros en temps que photographe indépendant. Mais j'ai jamais été très bon pour avoir mille clients et vendre le truc, parce que j'avais du mal à me vendre moi.
+*Avec mon iPhone, de temps en temps j'arrive à sortir une photo un peu meilleure que les autres, et je fais une petite post-prod qui va bien, mais c'est à peu près tout... J'ai fais la photo parce que ça a été mon premier vrai job, j'ai gagné mes premiers euros en temps que photographe indépendant. Mais j'ai jamais été très bon pour avoir mille clients et vendre le truc, parce que j'avais du mal à me vendre moi.*
 
-Ca m'a toujours fais plus plaisir de faire des photos dans des trucs avec des gens que je connaisais et ensuite leur envoyer. Parce exemple au mariage d'un ami je vais faire mes 50 photos rigolotes, et puis 1 mois après je vais envoyer trois photos trop belles, parce que quand je les ai revue j'ai été ému.
+*Ca m'a toujours fais plus plaisir de faire des photos dans des trucs avec des gens que je connaissais et ensuite leur envoyer. Parce exemple au mariage d'un ami je vais faire mes 50 photos rigolotes, et puis 1 mois après je vais envoyer trois photos trop belles, parce que quand je les ai revue j'ai été ému.*
 
-Je pense en revanche que si la photo est ton moyen d'expression, ça peut aller beaucoup plus loin. Pour moi maintenant ce n'est plus un moyen d'expression, c'est plutôt un petit moyen de partage.
+*Je pense en revanche que si la photo est ton moyen d'expression, ça peut aller beaucoup plus loin. Pour moi maintenant ce n'est plus un moyen d'expression, c'est plutôt un petit moyen de partage.*
 
 
 
