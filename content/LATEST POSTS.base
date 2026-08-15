@@ -14,9 +14,8 @@ views:
       - file.ctime
       - Summary
     sort:
-      - property: Summary
-        direction: ASC
       - property: file.ctime
         direction: DESC
     limit: 10
     image: note.image_cover
+    imageAspectRatio: 0.7
