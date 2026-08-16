@@ -18,4 +18,5 @@ views:
         direction: DESC
     limit: 10
     image: note.image_cover
-    imageAspectRatio: 1.45
+    imageAspectRatio: 0.9
+    cardSize: 240

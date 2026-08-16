@@ -3,10 +3,10 @@ tags:
   - post
   - interview
 Summary: Interview complète de Antoine Grasset - 2025
-image_cover:
-draft:
+image_cover: "[[Antoine Grasset 2.avif]]"
+draft: true
 ---
----
+
 ###### **Pour la petite histoire...**
 
 *J'ai rencontré Antoine Grasset lorsque que j'étais en alternance chez Spline. Le courant est tout de suite passé avec ce drôle d'énergumène, aussi à l'aise derrière un appareil photo que d'un robot industriel de 2 tonnes...* 
@@ -187,7 +187,8 @@ ___
 >  robot ! 
 >  ![](https://youtu.be/vRAPfDSmBGM?si=clQ71IHjQtQ1Apbi&t=2520)
 >  Vous pouvez aussi découvrir juste ici [l'article de PackShot Mag](https://www.packshotmag.com/live-feeds/spline-porte-squeezie-avec-son-nouveau-bras-robot-bob/) qui détail justement la mise en oeuvre de ce nouveau robot **"Bob"**. Et rien que pour yeux, appréciez justement Antoine en train de tester l'installation avant le tournage: 
- <div style="position:relative; padding-top:177.78%;">
+
+<div style="height: 70vh; max-width: 100%; margin: 0 auto; aspect-ratio: 9/16; position: relative;">
   <iframe src="https://player.vimeo.com/video/1212354613?h=YOUR_HASH"
     style="position:absolute; top:0; left:0; width:100%; height:100%;"
     frameborder="0"
@@ -196,1664 +197,327 @@ ___
   </iframe>
 </div>
 
-Quand on étivait des vibrations, ce que je me souviens, ça, c'était un sujet assez épineux pour JTS-Pine. La vibration sur les mi-sements. Forcément, ça dépend. Ça, en plus, c'est un peu mystérieux, mais je vais dire, tous les objets qui bougent dans le monde réel, ils ont des viémations.
+---
+### Qu'en est il des vibrations ? Je me souviens que c'était un gros sujet quand j'étais à Spline ?
 
-(...)
+*J'ai envie de dire que tous les objets qui bougent dans le monde réel, ils vibrent. Parce que derrière il y a un moteur, un coulissement, une friction... Tu peux la minimiser, mais la grande question c'est à la base, est-ce que ton robot il vibre ou pas ? Nous on s'est aperçu à Spline que les gros robots, ils vibrent moins, parce qu'ils ont plus de masse. Les petits robots eux vibrent plus, de la même manière que si tu tiens ton iPhone tu vas facilement le faire vibrer, mais si tu tiens une caméra de 25kg, t'aura plus de mal à la faire vibrer.*
 
-Parce que derrière, il y a un moteur, il y a un coulissement, il y a une frition. Tu peux la minimiser. Mais vraiment, la grande question, c'est à la base, ton robot, il vibre ou pas.(...) Nous, on s'aperçut que dans le monde où on est, les gros robots, ils vibrent moins. Parce qu'ils ont plus de masse.(...) Les petits robots, les jeux, ils vibrent plus. En plus, tout comme, si tu tiens ton iPhone, tu vas facilement le faire vibrer. Mais si tu tiens une caméra de 25 ans, tu vas pouvoir le faire vibrer. Et si tu tiens une caméra de 25 ans, tu vas pouvoir le vibrer. Et si tu tiens une caméra de 25 kilos,
+*Donc on fait avec les machines qu'on a, il y a des moments où il faut stabiliser en post, c'est sûr, mais pour 95% de travail qu'on fait, c'est pas nécessaire. Les gens ont l'impression que c'est une caméra 3D, c'est ça le soucis, mais ils oublient qu'une grue ça fait aussi de la merde. Tu peux regarder n'importe quel plan grue ancien, les mouvements de grue ils oscillent quand ils s'arrêtent. Des fois c'est mieux, des fois c'est moins bien. Vu qu'on [[programme les mouvement en 3D]] ils s'attendent à ce que ce soit une caméra 3D. Il faut faire de la pédagogie pour leur dire que c'est le monde réel, il y aura toujours des soucis.*
 
-(...)
+---
+### Vous avez également fait l'acquisition d'un UR-10 ?
 
-tu auras plus de mal à le faire vibrer.
+*La différence pour nous, c'est que jusqu'à maintenant on avait des robots industriels. L'UR-10 c'est un robot collaboratif, ça veut dire qu'il est fait pour fonctionner avec des êtres humains. De base, il est plus léger, plus lisse, et va moins vite. Il va aussi s'arrêter plus vite quand il va toucher quelque chose, donc tu vas moins vite casser quelque chose ou blesser quelqu'un.*
 
-(...)
+*Mais pour nous l'avantage numéro un, c'est qu'il sont très léger. Notre plus petit robot industriel, il faut quatre personnes pour le soulever. L'UR-10, une personne un peu costaud peut le soulever tout seul. Donc, pour accéder à des lieux, pour aller dans un appartement en étage, ça change tout, c'est ça la raison numéro un*
 
-Et donc,(...) nous, on se fait avec les machines qu'on a.(...) Il y a un moment où on s'est stabilisé, c'est sûr. Mais pour 4,5% des jobs qu'on fait, c'est pas nécessaire. Parce que c'est pas de la mapeau, c'est des plans larges.
+---
+### Ta plus grande création à Spline, ça a été Presto, est-ce que tu peux déjà nous expliquer le concept ? Quel(s) problème vous vouliez résoudre ?
 
-(...)
+*Presto c'est notre logiciel de contrôle pour nos robots, il permet de faire la prévisualisation des mouvement en pré-production à travers Blender, ce qui est très utile pour les clients. Puis, sur le plateau, ça nous permet de lancer la trajectoire du robot facilement et surtout de l'adapter facilement le jour du tournage en fonction des besoins. Ce système nous permet de contrôler nos trajectoire de manière très précise et flexible. C'est l'outil de travail principal pour nos opérateurs robot, de la prévisualisation en passant par le tournage et la post-production, à travers l'export de trajectoire pour les VFX par exemple.*
 
-C'est un...
+*Quand tu montes une boite avec un robot, il faut acheter un robot, ça c'est facile. Ensuite, la question c'est comment tu fais bouger, ton robot ? De base, le robot vient avec un logiciel industriel, un truc fait pour les mecs qui font de la soudure. Tu peux programmer des mouvements, mais tu ne vois pas le truc en 3D, tu es limité, tu ne peux pas gérer la mise au point. C'est très très basique.*
 
-(...)
+*Et donc quand on a monté la boîte, il n'y avait pas vraiment de logiciel qu'on pouvait acheter. Il y avait d'autres sociétés qui avaient leur logiciels, comme Mark Roberts, le Bolt. Mais nous au début pendant plusieurs années on avaient rien. On a essayé de faire développer des choses par des gens, mais c'est pas des gens qui utilisent des robots pour ce qu'on fait. Il y a un peu une déconnexion entre les programmeurs, les roboticiens et le monde du cinéma. Il fallait relier plein d'univers différents et on a galéré.*
 
-Les gens, on a l'impression que c'est une caméra 3D. C'est ça le truc. Les gens oublient que une rue,
+*Je pense que si j'avais pas commencé à coder Presto, Spline n'aurait pas continué si loin. Maintenant il y a d'autres logiciels en vente, il y a d'autres gens qui auraient pris la main et il n'aurait pas fait des chose aussi incroyable que nous.. Pour nous le fait qu'on ai développé notre propre logiciel, ça nous a donné accès à plein de choses que d'autres gens ne pouvaient pas faire, parce qu'on pouvait inventer et coder ce qu'on voulait pour en faire un truc customisé. Ca nous a ouvert plein de portes qu'on aurait pas eut en achetant un logiciel, ce qui aujourd'hui est possible.* 
 
-(...)
+*Je pense que c'est la chose la plus importante qu'on ait développé. Après on développe aussi Flynn, qui est notre logiciel de tracking qui nous a permis d'avoir nos plus gros projets, ces deux systèmes sont très complémentaires.*
 
-ça fait de la merde. Tu peux regarder bien des vieux films.
+---
+### Si tu devais recommencer le développement de Presto de zéro aujourd'hui, qu'est-ce que tu ferais différemment ?
 
-(...)
+*Il y a plein de choses que je refais au fur et à mesure, en vrai... J'ai commencé Presto pendant le Covid. Avant ça je n'avais jamais codé. Avant ça mon expérience du code c'était bricoler une page web.*
 
-Tu regardes Matrix, tu regardes... Je pense à rien.(...) N'importe quel vieux film, les mouvements de rue, ils oscillent, quand ils s'arrêtent, ils font... Et juste,(...) des fois, c'est mieux, des fois, c'est moins bien, mais t'as toujours des problèmes. C'est là. Et nous, les gens, vu qu'on programme 3D, ils s'attendent, est-ce que ce soit une caméra 3D ? Du coup, il faut...
+*Si je n'avais pas galéré à faire des choses de manière non conventionnelles au début, j'aurai pas après tout ce que je sais maintenant. C'est en créant le truc que j'ai appris à faire. Maintenant, c'est rigolo, parce que je retombe sur des morceaux de code que j'ai écrits il y a 5 ans quand je savais rien faire. Et je regarde le code et je suis là, genre "Oh, mama-mia !". Je referais ça maintenant différemment, de manière plus optimisée, de manière plus claire, un peu plus documentée, mais au final, le code que j'avais écrit, il marche depuis 5 ans.*
 
-(...)
+*J'ai l'impression qu'il y a souvent une recherche de la perfection dans le monde qui n'est pas nécessaire, parce que, si un truc marche. Même si c'est stupide. Est-ce qu'il faut vraiment le changer ?*
 
-C'est de la pédagogie pour leur dire tu vas voir des défauts, c'est le monde réel.
+*Au fond de nous, on a quelque chose qui nous dirige vers le bon, vers le correct, qui nous dit, « Il faut tout refaire de zéro, il faut reconstruire sur des bonnes fondations ! » Mais, quelque part, si ça marche pour la durée nécessaire et que, potentiellement, c'est fait correctement pour que tu puisses le modifier après, on s'en fout. !* 
 
-(...)
+*Régulièrement, je vais corriger du l'ancien code, mais régulièrement aussi, je vais regarder l'ancien code et me dire, en fait, ça marche très bien. Je verrai l'an prochain si il a besoin de faire un peu plus. C'est vraiment au gré des besoins que, potentiellement, tu vas venir changer des trucs.*
 
-L'année dernière, quand on était encore à Spline, vous nous avez fait l'acquisition d'un UR10. Yes.
+*Vu que je ne suis pas en train de coder un truc pour une navette spatiale, j'ai le droit de bricoler. Je crois que le chemin était tellement important que, comment on disait tout à l'heure, tu ne peux pas faire directement le bien truc. Tu as besoin de faire de la merde pour ensuite faire le bon truc. Il y a toujours des trucs à refaire, la question c'est "Est-ce que ça marche ?".*
 
-(...)
+### Est-ce que tu trouves bordélique ?
 
-Enfin, la position, vous vous partagez avec quelqu'un ? C'est ça, c'est un leasing pour le moment, mais il y a les achats qui sont au courant.
+*Oui, quand même, je suis assez bordélique. Si tu regardes le bureau de mon ordinateur ou mon bureau physique, c'est vite le bordel. Mais maintenant, j'ai appris à documenter des choses. Quand je fais un truc, je documente. Je sais maintenant transmettre ce que j'ai fait à quelqu'un d'autre et ça résous la plupart des problèmes que j'avais. Et quand il faut, je sais mettre de l'ordre.*
 
-(...)
+*C'est un peu comme les artistes, j'ai l'impression qu'il faut un peu des post-it de partout. Il faut commencer à écrire 10 chansons pour en produire une. Il faut mettre à la poubelle 3 scripts avant de faire ton film. Enfin, 3 scripts, plutôt 30 ! Je suis bordélique, mais j'ai pas peur de mettre à la poubelle.*
 
-Pourquoi, du coup, avoir fait l'acquisition sur Robo était-ce que vous permettez de faire ?
+> *Ton bureau illustre tellement bien qui tu es, et qu'est-ce que tu fais en ce moment. Je trouve que c'est une capture mentale de qu'est-ce qui t'intéresse. Des moteurs, des dessins, des câbles...*
 
-(...)
+*Ouais! Mais le truc difficile pour moi, c'est le focus. C'est dur de se concentrer sur un truc de manière continue. C'est pour ça que le Covid a été génial pour moi. Parce que j'étais en prison en gros, avec une seule idée et tout le temps nécessaire pour la construire. On devrait envoyer tous les développeurs en prison !*
 
-Alors, la différence avec nous, le robot, c'est que jusqu'à maintenant, on avait des robots industriels. L'UR10, c'est un robot collaboratif, ça veut dire qu'il fait pour fonctionner avec des autres posiments.
+---
+### Est-ce qu'il y a eu des moments stressant en tournage autour des robots ? Il y a déjà eu des situations dangereuse ? 
 
-(...)
+*Oui, j'ai eu plein de bugs. J'ai eu des fois ou j'étais en tournage et je m'aperçois qu'il y a un bouton qui marche plus ! C'est le moment d'envoyer une trajectoire et là, il y a un truc qui marche plus. Mais la beauté de truc, c'est que c'est moi qui développe. Donc, normalement, en quelques minutes, je vais mettre la virgule là où j'ai oublié ma virgule et c'est reparti. T'auras beau faire tous les tests de ta vie, le monde réel, c'est la merde, et le seul moyen de trouver un bug, c'est de tester.*
 
-Donc, de base, il est plus léger, plus lisse,
+*Parfois, il y a des gens qui se font mal parce qu'ils se font relever sous le robot. Mais c'est pas de la faute du robot ! Un truc qu'il ne faut jamais oublier, c'est que ce qu'on fait, c'est super dangereux. Comme un pilote de course, ou un cascadeur, c'est rigolo. c'est des trucs de dingue, c'est marrant de le raconter. Mais quand tu fais fait le truc. Il faut te dire, ma voiture, elle peut aller dans le public. Nous, le robot, il est proche des gens. Moi je sais que c'est un truc important.*
 
-(...)
+*Quand j'étais jeune, je faisais du jonglage enflammé. C'est rigolo, ça exalte, t'as de l'adrénaline. Mais si tu fais ça bourré, t'es vraiment trop con, par que tu mets en péril ta vie et la vie d'autrui. Et bah avec nos robots c'est pareil, on est hyper prudents.*
 
-il va moins vite,
+### Aujourd'hui, est-ce que tu te penses que Spline pourrait se passer de toi ?
 
-(...)
+*Là, si je disparaissais, je pense que Spline pourrait continuer à faire des tournages et continuer comme de rien, sans problème. Mais je pense que le moment, d'innover, d'implémenter des nouvelles choses, je ne sais pas ce qui se passerait. Ce que j'ai fait est tellement personnel, même si j'ai beaucoup transmis et que j'ai documenté pas mal de choses. Donc si je paraissait, peut-être que à moyen terme, il faudrait qu'il passe sur un autre logiciel. Et là, ils pourraient reprendre avec un nouveau développeur.*
 
-et il va s'arrêter plus vite quand il va toucher quelque chose. En gros, tu vas moins vite de casser quelque chose ou de laisser quelqu'un.
+*Je ne sais pas si un nouveau développeur pourrait reprendre mon code... Ou si ça serait plus facile de partir d'un autre code dans un autre logiciel. Bonne question, je suis pas sûr...*
 
-(...)
+---
+### Parles nous de "La Tournette"
 
-Mais nous, l'avantage numéro 1, c'est quand même qu'ils sont très légers.
+*J'ai l'impression que parfois, un truc qui a l'air simple est quasiment impossible ! Dans les premières années de Presto, j'ai développé les fonctionnalités essentielles assez rapidement, le chemin était direct.  Mais après, il y a toujours eu plein de petites fonctionnalités, "il faudrait que ça, ce soit là, ça, ça l'air bien, ça lui faut l'avoir... Quelques trucs donc, dont la tournette, qui ont l'air simples, mais la tournette, je crois que ça a mit 4 ans.*
 
-(...)
+*Parce que, je n'avais pas trop le temps et pas forcément les connaissances, donc c'est des jobs qu'on a donné avec des alternants, qui ont bossé dessus mais qui n'ont rien pu sortir. J'ai vu plusieurs personnes bosser dessus, s'y casser les dents. Et moi-même, il m'a fallu très longtemps pour essayer, pour enfin trouver une petite lueur vers un truc qui me semblait être faisable, et accessible pour moi. Parce que t'arrives dans des complexités, où il faut te demander si tu peux le faire...*
 
-Notre fois plus petit robot industriel, il y a quatre personnes pour le sauver.
+*Je pense qu'il y a des gens beaucoup plus compétents qui auraient pu faire un truc de zéro, réinventer la roue. Moi, il a fallu que je vois un ou deux trucs que je pouvais récupérer et modifier. Et après, c'est allé quasiment tout seul.* 
 
-(...)
+*Ça a été un peu un tunnel, il a fallu que je me consacre du temps, sans interruption sur ça. Beaucoup plus longtemps que sur d'autres choses. Parce que pour que ça marche bien, il y a plein de petits détails, notamment il faut pas qu'il y ait de vibrations, que ça soit synchro, que ça soir répétable... Le diable est dans les détails.* ***ça peut pas marcher un peu, ça doit marcher parfaitement.***
 
-L'UR10, un robot collaboratif, une personne costaud peut le sauver tout seul.
+*Il y a une règle dans ma vie, c'est les 80-20. Tu passes 80% du temps à régler les 20% de finalisation.*
 
-(...)
+> *Tu sais que c'est un des premiers truc que tu m'as dit quand je suis arrivé à Spline ! Mais du coup, aujourd'hui, vous êtes donc capables de la synchroniser avec le robot ?*
 
-Et donc, pour accéder à des lieux, pour aller dans un appartement en étage, ça change tout. C'est ça la raison numéro 1.
+*Absolument ! Je pourrais même contrôler 8 tournettes en même temps synchro au robot !*
 
-(...)
+> *Ça va donner des idées à des gens ça !*
 
-Et on travaille de macros.
+*Oui, une tournette à fromage, une tournette à raclette !*
 
-(...)
+### Et en ce moment, sur quel projet travailles-tu, si tu peux nous en parler ?
 
-On travaille de macros, c'est pas nécessairement mieux parce que justement, c'est des robots un peu légers. Tu disais, ouais.
+*En ce moment on va acheter une licence à d'un développeur qui a développé un système de contrôle robot, assez universel. Ça va nous permettre de faire des choses beaucoup plus avancées, notamment le contrôle du robot par manette de PlayStation, pouvoir modifier le cadrage pendant un trajectoire en cours de lecture... Plein de petits trucs comme ça qui ont l'air simple, mais qui en réalité ne le sont pas du tout. Pour les opérateurs ça va rien changer, mais de manière profonde, le système va beaucoup changer pour attendre ces nouvelles possibilités techniques !*
 
-(...)
+> *Et il ne faut pas oublier non plus que tout ce que vous faites, est intégré, de base, dans Blender...*
 
-Mais ils vont moins vite, donc tu vas moins faire de folie. Je dirais que c'est... C'est semblable.
+*Quelque part aussi, oui. C'est vrai que pareil, c'est un remix. De mon côté j'améliore Presto, et Blender est amélioré par plein de personnes, du coup je n'ai pas besoin de m'en occuper plus que ça, je contribue et je profite en même temps d'un logiciel open source.*
 
-(...)
+---
+### Maintenant parlons un peu de ce qui est sans doute l'un de tes plus gros projet, "L'Homme qui Rétrécie"
 
-En tout cas, c'est pas un monde à part.
+*Le défis, il est assez simple, c'est tout d'un coup, tu dois pas bosser sur une journée, tu dois bosser sur 40 journées, tu as 250 plans, il y a un côté industriel, à ce que tu vas faire. En plus, il y a un complexité technique, qui est un trucage, qui a déjà été fait par le passé, mais jamais vraiment comme ça, jamais avec ces machines et surtout, jamais avec autant de plans.*
 
-(...)
+*Donc pareil, c'est un énorme remix, parce que si tu prends les éléments 1 par 1, ils vont déjà avoir été fait à gauche ou à droite. Mais ce qu'on a fait, avec le niveau de complexité, avec le nombre de plans et la facilité avec laquelle on l'a fait, ça n'a jamais été fait.*
 
-Comme je le disais, on est maintenant dans le coeur du réacteur.
+*Le challenge, ça a été d'inventer les solutions, les différents pipes, le boutons et  les fonctionnalités, qui ont rendu le truc, non seulement possible, mais aussi hyper rapide.*
 
-(...)
+*Je pense que d'autres sociétés auraient pu accomplir ces plans. Est-ce qu'ils auraient pu en faire un 10 par jour ? Et c'est là que l'aspect customisation, qu'on code nos propres logiciels, a tout changé. [...]*
 
-La grande création pour toi à Splines, ça a quand même été presto. On a 3 nômes.
+*Il y a des gens qui ont des problèmes, ils ne savent même pas ce que c'est vraiment leur problème, ils ne savent même pas si il existe quelqu'un pour le résoudre. On est un peu dans cette situation, où on a des gens qui viennent nous voir avec un problème improbable, et très souvent on peut y répondre. On est conscient qu'on peut faire des trucs de dingue, on est là pour essayer de reconnecter les problèmes avec les solutions.* 
 
-(...)
+## A la croisée des chemins...
 
-Est-ce que tu peux nous déjà nous expliquer le concept de presto ?
+### Pour toi, où est-ce que tu places le curseur entre technicien et artistes ?
 
-(...)
+*Technicien ou artiste, c'est la grande question de ma vie. Je crois que, je me suis créé le job parfait qui est un peu à la frontière. Je ne me verrai pas être un artiste à 100%, je ne me verrai pas non plus être un technicien à 100%.*
 
-Qu'est-ce que vous voulez résoudre comme problème ? Alors, vous aviez...
+*Quand tu es un artiste, tu peux communiquer et tu peux collaborer avec des gens d'une manière incroyable, inventer des choses, profiter de ta liberté. Tu peux dire ou faire n'importe quoi, c'est faisable.* 
 
-(...)
+*Quand tu es technicien, tu peux avoir une obsession sur des détails techniques, mais c'est rare d'avoir une personne qui est pure, c'est rare d'avoir un technicien pure ou un artiste pure. Les virtuoses dans une discipline, c'est rarement des gens qui ont qu'une obsession. C'est des gens capables de comprendre que dans leur technique, il y a une part artistique et que dans leur art, il y a forcément des côtés techniques.*
 
-Quand tu me montes une boîte avec un rogo,(...) acheter un rogo, c'est facile.
+*Quand tu es à haut niveau, tu vas demander de l'aide pour la partie que tu maitrise le moins. Alors que moi, j'ai l'impression que je suis pile au milieu et ma passion, c'est de mettre les deux à fond, au maximum.*
 
-(...)
+*Mais du coup, je ne serai jamais un virtuose, ni de l'un ou l'autre. Mon choix, c'est de pas choisir. Mon choix, c'est que je fais plusieurs choses, je quitte plusieurs choses, et allez vous faire foutre !*
 
-Ensuite, la question, c'est comment tu fais bouger ton robo ? De base, le robo, il vient avec un logiciel industriel, un truc pour les mecs qui font de la soudure. Tu peux programmer des mouvements, mais
+*L'obsession de la perfection n'intéresse pas. Ce que j'aime, c'est faire plein de choses qui m'excitent, qui changent, qui m'apprennent des trucs. Et pour ça, il faut accepter que je serai jamais le meilleur absolu dans une discipline. Je sais plus si c'était Montaigne ou Voltaire qui disait:*
 
-(...)
+># "Une tête bien faite plutôt qu'une tête bien pleine."
 
-tu ne vois pas le truc en 3D, tu es limité, tu ne peux pas gérer la mise au point.
+---
+### Du coup, le code c'est venu avec Presto finalement ?
 
-(...)
+*Oui, pendant le Covid, mais avant quand j'étais ado, j'avais fait un petit site web que j'ai jamais mis à jour... J'avais envie de le faire, mais j'ai vite été limité parce que j'avais pas des compétences de dingue. En tout cas, ça m'a introduit et ça a fait que je n'avais plus peur de voir un peu de code.*
 
-C'est... très très basé.
+> *Donc quand tu t'es lancé dans le développement de Presto, tu n'avais pas peur ?*
 
-(...)
+*Au au moment du Covid, je me suis dit: "est-ce que moi je pourrais pas faire un truc basique, qui pourrait me servir à montrer à quelqu'un ce qu'il faut faire ?"*
 
-Et donc,
+*Je savais même pas ce que je faisais. J'étais là, genre, "je vais essayer de faire les trucs les plus basiques, merdiques que je peux.". Et puis de fil en aiguille, les 100 lignes de codes sont devenues 1000, puis 10.000 lignes.*
 
-(...)
+*Mais je me suis pas dit, je vais faire le logiciel, je me suis dit Blender, c'est rigolo, on peut faire du code, allé. Et si j'arrivais à faire un truc merdique, au moins je pourrais peut-être visualiser quelque chose.*
 
-pas quand on a monté la boîte, ça n'avait pas vraiment de logiciel pour vous acheter. Il y avait d'autres sociétés qui avaient l'enregistiel, comme Marco Berth, le Bolt.
+*Quand j'ai eu 3 briques et qu'elles ne sont pas tombées, tu te dis, si j'en rajoute deux ou 3, j'aurai un mur.*
 
-(...)
+### Que penses-tu de développer dans Blender ?
 
-Il y avait des boîtes qui avaient créé l'enregistiel déjà.(...) Mais nous, au début, plusieurs années, on n'avait rien.
+*Je trouve que c'est incroyablement ouvert, je ne vois pas vraiment de limites. En plus, maintenant, avec l'IA, il y a plus de aller sur Stack Overflow, et fouiller pour trouver LA réponse.*
 
-(...)
+*La limite, c'est combien de temps tu veux y passer, et potentiellement, si tu voulais optimiser pour aller très vite, là, il faudrait modifier le code de Blender à la source, et là, ça devient plus complexe. Mais en Python, pour ce que on fait toi et moi, je ne vois pas vraiment les limites.*
 
-On a essayé de faire développer des choses par des gens, mais ce n'est pas des gens qui ont mis des robots pour ce qu'on fait. Il y a un peu une déconnexion entre les propres ameurs, les roboticiens et le monde cinéma.(...) C'est beaucoup de mecs de la... Voilà.(...) Et... Il faut...(...) ce qu'on fait, ça relie plein d'univers.(...) Et donc, on a galéré parce qu'on n'avait pas de software. C'était vraiment notre...
+### Nous avons deux méthodes de travail assez différentes quand on approche l'étalonnage, parle nous de ta vision sur un workflow color-managé.
 
-(...)
+*Je dirais que mon point de vue, il est un peu moins pertinent. Je ne passe pas mes journées à livrer des fichiers, je n'ai pas des clients comme Netflix qui ont besoin de faire du HDR ou des trucs comme ça. Mon expérience, c'est que dans 9 cas sur 10, on demande un truc pour Internet, Instagram, YouTube, digital.*
 
-le point noir, on va dire, de notre système.
+*Donc, dans ce cas, dans 9 cas sur 10, le livrable est simple. Il ne nécessite pas de conversion compliqué, c'est un espace tout simple, donc, mon interprétation, c'est est-ce que tu as besoin de construire une centrale nucléaire pour faire tourner une manivelle ?*
 
-(...)
+*Et c'est des choses que je n'ai pas envie d'apprendre, ni de mettre en place une usine à gaz pour que peut-être dans 5 ans, quand il y a un re-master de la pub de mayonnaise que j'ai fait, je puisse la sortir en HDR.*
 
-Et donc, ça a été fait, je pense que si vous n'avez pas commencé à coder les restos,
+*Je pense qu'il faut apprendre à choisir le niveau de complexité qu'on a envie d'apprendre. Je respecte complètement les gens qui vont dans la complexité, l'abstraction des choses. Mais parfois, ça peut être une perte de temps et d'énergie mentale. Et c'est là que la technique va un peu doubler l'artistique. Parce que l'artistique n'a pas besoin d'un workflow toujours color-managé, d'un DCTL de fou,... L'artistique a besoin d'une bonne idée, mais je respecte totalement les deux workflows, c'est simplement que moi j'en ai pas besoin.*
 
-(...)
+### Parles nous de la nouvelle API de Resolve, qu'est-ce qu'elle t'a permis de faire ?
 
-Stein n'aurait pas continué si loin, parce que... parce que maintenant, les gens qui sont en vente, il y a des gens qui auraient pris la main, qui auraient fait les choses, pas forcément aussi incroyables que nous, mais des gens qui nous auraient bien lait.(...) Pour nous, le fait qu'on ait développé notre logiciel, ça nous a donné accès à plein de choses que d'autres gens pouvaient faire, parce que du coup, on pouvait inventer ce qu'on voulait, on pouvait coder ce qu'on voulait, on pouvait faire un truc customisé.(...) Ça nous a ouvert plein de portes qu'on n'aurait pas eus en achetant un nucléiciel,
+*L'API de Resolve, c'est un peu comme l'API de Blender. C'est l'ouverture d'un monde où tu automatises les choses. **Personne n'a envie de coder un logiciel de montage mais tout le monde a envie de le modifier.** Parce que tout le monde a envie d'un bouton qui fait le truc qu'il a envie, c'est le rêve de tout le monde. Un truc que tu fais tous les matins ou 10 fois par jour, tu l'automatises et ça devient invisible.*
 
-(...)
+*Je pense que toutes les applications qui ouvrent une API ouvrent les portes à plein de marché. C'est comme dire: "Tiens, moi je fais ce que je fais, mais tu peux venir, t'as une petite place pour augmenter ce que je fais"*
 
-ce qui est maintenant techniquement possible.
+*Tu peux aussi être créatif pour détourner le logiciel pour lui faire faire faire un truc auquel il n'est destiné, moi je le réserve pour l'automatisation. Par exemple, j'ai crée un petit système qui permet de synchroniser le robot à l'enregistrement sur les Glambots et de couper, appliquer une étalo et exporter le plan automatiquement. Avant, faire ça sur tous les glambots ça prenait un temps monstre, maintenant tu n'as même plus à y penser.*
 
-(...)
+---
 
-Je pense que pour cette raison, c'est peut-être que les achutes sont la plus importante pour qu'on ait développé.
+### C'est quoi le logiciel qui te procure le plus de satisfaction ?
 
-(...)
+*Ça change souvent... Un bon logiciel c'est un logiciel qui se met pas en travers de ton chemin et que tu peux adapter à ce que tu fais,  je vais donc mettre au même niveau Blender et Touch Designer. Photoshop, Adobe DaVinci ça marche très bien, mais tu ne peux pas tout faire...*
 
-Après,(...) on nous développe aussi Flin qui est le logiciel de tracking,
+---
+### On parlait d'IA tout à l'heure, notamment sur le code c'est quoi ton point de vue sur vibe-coding ? Est-ce que tu intègres des outils d'IA dans tes workflow ? Ou plus généralement dans ta vie ?
 
-(...)
+*C'est comme tout, ça des mauvais aspects. Ces mauvaises aspects peuvent entrainer des crises. Plein de gens voudraient les détourner pour en faire des mauvaises activités.* 
+*Tu peux mettre plein de règles pour essayer d'empêcher, ou atténuer ces mauvaises aspects, et je pense que pour l'IA il n'y a pas encore eu ces modérations. Je pense que l'IA peut entraîner plein de problèmes, l'IA va entraîner des crises dans plein de secteurs.* 
 
-qui cherche son marché, mais qui nous a permis d'avoir nos plus gros projets, quelque part.
+*Après clairement, je l'utilise beaucoup pour coder, parfois aussi pour des questions administratives, une question générale... Je pense que l'IA c'est devenu un peu un parallèle de Google. Quand je l'utilise pour coder, c'est surtout pour résoudre des petits bouts de puzzle, parce que j'aime garder la main sur l'architecture de ce que je fais.*
 
-(...)
+*Il y a des gens qui vont faire coder une application complète à l'IA. Ça peut marcher, mais est-ce que c'est une super idée, je suis pas sûr. C'est toujours dur de revenir en arrière. Ça peut réaliser des choses, est-ce que ça va devenir la norme ? Je penses pas, mais est-ce que ça remplace plein de choses de bas niveaux, oui.*
 
-Mais peut-être qu'il y a un peu moins essentiel de la survie de display.
+*C'est comme une visseuse au lieu d'un tournevis. C'est génial, mais c'est pas ça qui va faire que tu vas construire une plus grande ou plus belle maison, mais maintenant tout le monde a besoin de une visseuse...*
 
-(...)
+### Avec tout ce que tu sais faire, si tu voyageais dans le passé, est-ce que tu serais vu comme un inventeur fou, ou un hérétique ?
 
-Fristo, ça a été un peu comme je ne sais pas, comme le pizzaie-ro, qui invente son four, qui invente le feu. C'est vraiment un truc qui maintenant, et si l'on lève, on ne peut plus faire notre online.
+*Ça j'adore. Comment est-ce que tu expliques comment fonctionne un iPhone à quelqu'un du passé ?*
 
-(...)
+*Je pense que je pourrais donner plein d'idées à plein de gens mais je pourrais pas inventer les choses qui ont déjà été inventées. Je pourrais voir les inventeurs avant qu'ils crée leur invention et leur dire: "Et si tu essayais un truc comme ça, vous avez déjà fait ça ?"* 
 
-Quel vrai bien sûr.
+### On peut dire que tu es quelqu'un d'obstiné. Que se passe-t-il dans ta tête quand tu butes sur un problème ?
 
-(...)
+*Quand il y a un problème qui arrive devant moi, en numéro 1 il y a un jugement de valeur: "Est-ce que c'est un problème grave ou est-ce que c'est un problème qui peut attendre ?"* 
 
-Du coup, aujourd'hui, tu disais si on t'envait, tu ne pourrais plus faire ton travail, mais si justement, tu ne verras pas, ou Fristo disparait.
+*Est-ce qu'il vaut la peine d'être résolu ? Si je le résous est-ce que c'est un truc que je vais réutiliser ou pas ?  Souvent, ça vaut pas le coup, il vaut mieux faire le truc à la main et demain c'est oublié. Après il y a aussi des problèmes où on se dit: "Ah oui, ça c'est un truc au cœur de ce que je fais, ça va servir à mes collègues, ..." Et quand je vois ça le problème ça devient un petit post-it dans ma liste, je vais y revenir, je vais y réfléchir, y penser dans la douche, je vais y penser en dormant et il y a un moment où je vais avoir une petite intuition de comment je vais pouvoir le faire. Là je vais faire 2 nuits blanches et le résoudre. C'est pour ça que je pense que je suis très bon à résoudre, si le problème résolu en 2 nuits blanches, si ça prend 1 mois de nuits blanches là ça devient problématique. Il faut du temps et du suivi, et c'est un truc sur lequel je travail...*
 
-(...)
+---
+### Est-ce que tu es anxieux ?
 
-Impossible, c'est la catastrophe. Tu parles en déprime dans une semaine. Si tu devais repartir sur, faire tout le développement, qu'est-ce que tu ferais d'infirament? Une fois que tu aurais fait le deuil, on dirait tout ce que tu as fait.
+*Je n'ai pas l'impression que je sois quelqu'un d'anxieux, j'ai pu l'être mais non je suis très peu anxieux, parce que à mes yeux rien n'est grave. Tant que personne est blessé et que tout le monde est là rien n'est grave. Je ne bosse pas dans un hôpital. Si je foire un truc dans mon job, au pire c'est de l'argent, je veux dire je ne sais pas grave...*
 
-(...)
+*Il vaut mieux garder ses amis et perdre son job, parce que tu peux en retrouver un. Il y a plein de choses qui ne sont pas remplaçable.* 
 
-Qu'est-ce que...(...) Est-ce qu'il y a des trucs dans le code qui te gènent? Est-ce qu'il y a des trucs... Ah putain, ça, je n'aurais vraiment pu faire d'infirament, mais ça va être tellement longtemps que je ne peux pas les enlever.
+*Les gens peuvent me demande des fois quand quelque chose foire: "Mais ça t'inquiète pas ?" Et moi ma réponse c'est: "Mais est-ce que ça aiderait si je m'inquiétais ?". Je sais plus de quel film ça vient...*
 
-(...)
+---
+### Est-ce qu'il t'arrive de t'ennuyer ?
 
-C'est ton âge, non? C'est...
+*Maintenant c'est rare, je trouve que c'est bénéfique de s'ennuyer, et dans notre monde c'est plus difficile qu'avant. Quand j'étais petit, jeune, je m'ennuyais, et j'ai l'impression que maintenant, surtout pour les jeunes, tu n'as plus d'ennui...*
 
-(...)
+*Si je me suis mis à coder pendant la Covid c'est parce que je m'ennuyais. Quand tu t'ennuies, soit tu te mets à faire de la merde soit tu te mets à faire un truc que t'as envie de faire. Et du coup, c'est bien de générer du temps où t'as rien à faire.*
 
-Il y a plein de choses que... que je refais au fur et à mesure, en vrai, parce que...
+---
+### C'est quoi ton rapport à l'argent ?
 
-(...)
+*L'argent c'est pratique, j'en ai un peu parce que j'en ai gagné. Mais si j'avais 2 fois plus d'argent ma vie serait pas différente, j'ai un toit au-dessus de ma tête, si j'ai un truc que j'ai envie d'acheter je l'achète, si j'ai envie de payer un coup à boire, je paye un coup à boire, j'ai complètement assez d'argent.*
 
-j'ai commencé presto pendant le Covid.
+*Je pense que j'ai toujours été inquiet de pas en avoir assez, donc j'en ai accumulé et maintenant que j'en ai accumulé assez, j'ai plus peur... C'est bien d'avoir un parachute parce qu'une fois qu'on a un parachute, que t'ai 10€ ou 10€ en moins, ça change rien. Je n'y accorde pas beaucoup d'importance, tant que j'ai un parachute, je m'en fiche.*
 
-(...)
+---
 
-Et avant ça, je n'avais jamais codé mon petit tour. Je n'avais...(...) Avant ça, mon expérience du code, c'était bricoler une page web.
+### C'est quoi la chose la plus absurde ou la plus cher que tu possède ?
 
-(...)
+*J'ai acheté un tas de trucs absurde, des gadgets, des trains miniatures qui servent à servir des shooters... Tu sais quand tu vas à Emmaüs, que tu vois un objet à la con, et tu te dis: "Noooon..." ? Moi je me dis: "Ouiiii !!".*
 
-Et en vrai...
+*Des fois je vois un truc chers, dans un vêtement ou un truc technologique, et vu que je suis pas impulsif je vais y réfléchir à deux fois et je vais me dire "En fait, non.". C'est moi qui vais attendre un peu trop longtemps généralement, avant, j'avais des écouteurs filaires de merde, j'aurais dû m'acheter des Airpods avant, mais j'ai attendu tellement longtemps, que j'ai été vraiment content de les avoir du coup. Je suis pas un dépensier. Par contre si je vois un truc pas trop cher genre un truc à 10 ou 20 balles complètement con, là j'y vais, et personne ne peut m'arrêter !* 
 
-(...)
+---
+### Beaucoup de gens aimeraient avoir ta position. Est-ce que tu t'estime chanceux ?
 
-Je n'ai jamais codé en pinceau.
+*Par mille aspects dans ma vie, j'ai l'impression que je suis très chanceux. Je suis pas dans la merde, j'ai un peu d'argent, j'ai un travail qui me plait et que j'ai aidé à avoir par hasard. J'ai jamais eu de gros coups durs dans ma life ou dans ma vie personnelle, est-ce que c'est privilégié ? Je sais pas. En tout cas j'ai jamais eu de pépins, par rapport à plein de gens, je suis très chanceux.* 
 
-(...)
+*Après, est-ce que il y a plein de gens qui aimeraient avoir ma vie exactement ? Je ne pense pas, mais par plein d'aspects oui tout le monde a envie de sentir en sécurité et ça tout le monde en a envie... Je me sens à l'aise dans ma peau. Est-ce que quelqu'un voudrait exactement le job et ce que je fais ? Non, chacun a besoin de ces trucs à lui.*
 
-Hey,
+*Je sais que rien n'est éternel, j'ai beaucoup de gratitude par rapport à ce que j'ai, clairement.*
 
-(...)
+---
+### Dans ta bio insta, tu as écris: "Welcome to the Nonsense." Est-ce une invitation ou un avertissement ?
 
-tu fais n'importe quoi pendant assez longtemps, ça ne faut pas faire un truc.
+*Il y a quand même plein de chose dans la vie qu'on prend trop au sérieux. On veux que les choses aient du sens, qu'elle soient raccordées par les causes et les conséquences. Moi, je ne crois pas, je pense que la grande majorité des choses dans le monde sont random, elles apparaissent, elles disparaissent...*
 
-(...)
+*C'est une invitation à dire: "Les choses sont pas si importante, il faut vivre."*
 
-En tout cas, c'est du mal à séparer un peu la... la création de ça, parce que... Si j'avais pas... Si j'avais pas galéré à faire des choses un peu de manière non-proncionnée au début, je n'aurais pas appris tout ce que j'ai appris. Donc...
+---
+### Qu'est-ce qui te choque le plus dans le monde actuel ?
 
-(...)
+*Je dirais deux choses. La première qui rejoint ce que je disais, on accorde de l'importance à plein de choses, on veut toujours plus, on va aller voir le prochain Reel Instagram alors que le précédent ne nous a rien apporté. On introduit plein de choses qui ne servent à rien dans nos vies. C'est donc un truc assez basique mais qui m'étonne toujours, c'est que les gens ne savent pas faire des choix qui sont bénéfiques pour eux, je ne sais pas pourquoi, mais c'est comme ça...*
 
-En créant le truc, j'ai appris à le faire.
+*Le deuxième truc, qui est aussi un peu lié, c'est que les gens, souvent, sont très doués pour juger. La compétition c'est genre juger de la bonne manière, avoir la bonne réplique, trouver le bon argument. Je vais juger ton film, alors que j'ai jamais fait de film. Je vais juger ton émotion, alors que ressens rien. Je vais juger le mot que tu as dis, parce que j'ai pas eu à m'exprimer, comparé à toi qui a eu le courage de parler.*
 
-(...)
+*Les gens ne laissent pas l'espace à la rectification. Je trouve que c'est un truc très* 
+*profond, c'est lié au fait que moi quand j'étais jeune, il y avait pas d'internet, il y avait pas les téléphones portables partout... Quand tu étais gamin, tu pouvais faires erreurs, tu pouvais faire et dire de la merde, il y avait cette zone grise ou tu réfléchissait à ce que tu as fait, ou tu trouve que c'était con et tu le fais plus. Et bien cette même zone aujourd'hui réduit, parce que maintenant, t'as 8 ans, tu fais de la merde, quelqu'un est en train de te filmer en disant ça va sortir. Alors oui, ce que tu faisais était sans doute mal, mais tant que tu n'as pas grandi tu sais pas ce que tu fais.* 
 
-Maintenant, c'est rigolo, parce que du coup, 5 ans après, je retombe sur des morceaux de code que j'ai écrits il y a 5 ans quand je savais rien faire. Et je regarde le code et je suis là, genre « oh, mon mamie, il y a plus de tout ce que je veux faire. » Et en vrai, j'offrais ça maintenant différemment, de manière plus optimisée, de manière mieux, je ne sais pas plus claire, un peu documentée, mais au final,
+*Il faut avoir cacher sa tristesse avant de se rendre compte que c'est important de la dire. Il faut avoir menti à tes amis, avant que ça explose et que tu comprennes qu'il ne faut pas mentir à ses amis. J'ai l'impression que dans plein d'aspects, tu n'as plus le droit à l'erreur, et ça c'est un peu la merde...*
 
-(...)
+*Et ça, ça se raccorde à plein de sujet: le féminisme, ou le racisme,... j'ai connu plein de gens qui à cause du féminisme se sont mit dans des sorte de trou. La pureté militante, qui va te mettre dans une sorte de culte, ou tu sais même plus pourquoi tu pense un truc, tu dis des phrases, et quand quelqu'un en face dit une autre phrase, tu vas la critiquer. Tu ne vas même pas te mettre à sa place, tu perds toute l'empathie que tu avais. Tu ne te dis pas: "C'est une autre personne, qui s'est construit, qui pense peut-être différemment de moi, parce qu'elle est plus jeune" par exemple. C'est pareil en politique, tu entends quelqu'un de gauche parler, tu te dis qu'il a tord parce qu'il est de gauche...*
 
-le code que j'ai que sous, il marche depuis 5 ans.
+*Je trouve que ça pose problème dans pleins de cas. En politique, en féminisme, en racisme, il y a des limites à tout, et en amitié c'est pareil. Si un de tes amis te révèle ses émotions, ou ce qu'il pense de son père ou de la politique, qui tu es pour rectifier ce qu'il vient de dire ? Tu peux lui dire que t'es pas d'accord, tu peux lui dire: "Là, ce que tu viens de dire, ça va dans une direction qui me plait pas.", tu peux lui dire plein de choses. Mais actuellement, tu as envie de cancel les gens, de leur dire: "Tu peux pas dire ça !".*
 
-(...)
+*En tout cas, moi je suis un autiste, le monde il est ni noir ni blanc. Quand quelqu'un dit de la merde, par exemple quand un mec de droite parle, je me dis: "Et si j'étais à sa place, qu'est-ce que je penserais, pourquoi je pense ça, est-ce que je peux comprendre pourquoi il dit ça ?". Les gens ne se mettent pas à la place des autres, et ça ça fou la merde dans plein de rapports.*
 
-Et j'ai l'impression que...
+*Quand j'étais jeune, je connaissais plein de gens qui ont fait de la merde de ouf, et ils étaient bien contents que c'était pas enregistré, parce que tout ce gens ils ont changé. Maintenant tu as 20 ans, tu dis de la merde, c'est pour toute ta vie, peut-être.* 
 
-(...)
+*Je n'ai pas de solution. Il faut mettre des limites au choses, mais il faut aussi laisser la place au gens de grandir, de dire de la merde, d'avoir un débat où tu accepte que quelqu'un dise un truc différent et que tu le considère. Moi j'ai grandi, parce que plein de gens ont dis des trucs différent de ce que je pensais, et après coup, je me suis dit "pourquoi est-ce qu'ils pensent que ça, c'est est une meilleure solution à tel problème" ou "pourquoi est-ce qu'il faudrait faire ça dans la société ?" Si eux ils le pensent c'est peut-être qu'ils ont des raisons. Et il y a des fois ou je me dis: "Bah non, c'est de la merde  ! Ils sont remplis de foutre !" Et d'autres fois: '"OK, je peux me dire je n'aimerai pas partir en vacances avec eux, mais j'accepte que ce mec il dise ça, et qu'il ait envie que dans son département ou que dans son pays ça soit comme ça. Tu peux voter pour ce que tu veux.*
 
-Il y a une recherche souvent de la perfection dans le monde qui n'est pas nécessaire, parce que... c'est un truc de marche.
+*Avant il y avait plein d'accents différents, tu avais l'accent dans le patois, tu avais l'accent du pays tu avais machin. Maintenant tout a disparu, t'as que l'accent des blancs qui parlent(sans accent) et si quelqu'un parle avec un accent, soit on se fout de sa gueule, si quelqu'un fait une blague sur son accent, on lui dit que c'est pas permis... C'est chelou, parce que de là où, je viens il y a un accent. Là où je vais, il y a des accents... Moi je trouve ça cool, mais apparemment ça pose des problèmes. Et du coup on a plus le droit, et pour plein d'aspects de la vie, c'est ça. Même si il faut mettre des limites.*
 
-(...)
+*C'est un problème de ma life, c'est que je suis incapable de mettre cette limite, à quel moment il faut dire à quelqu'un: "Va te faire foutre, ferme ta gueule.", et à quel moment il faut accepter que les gens puisse dire un truc. C'est un des problèmes dans ma vie en société.* 
 
-Même si c'est stupide. Est-ce qu'il faut vraiment le changer ?
+*Parce que, si il y a un connard qui dit de la merde, je suis capable de l'écouter pour dire: "Explique moi vraiment pourquoi tu dis cette merde." Je vais pas, au premier mot lui dire "T'as pas le droit de dire ça."*
 
-(...)
+*Mais je crois que par moments aussi, j'apprécie qu'il y ait quelqu'un à côté, qu'il lui dise: "Toi t'es un gros nazi." et qu'il lui mette un pain dans la gueule !*
 
-Au fond de nous, on a quelque chose qui nous dirige vers le bon, vers le correct, parce qu'il nous dit, « oui, il faut le refaire de zéro, il faut reconstruire sur des bonnes fondations, je ne sais pas quoi. » Mais, quelque part, si ça marche pour la durée nécessaire et que, potentiellement, c'est fait correctement que tu puisses le modifier après,(...) on s'en fout.(...) Donc régulièrement, je vais corriger du l'ancien code, mais régulièrement, je vais regarder le ancien code et me dire, en fait, ça marche très bien. Je verrai l'an prochain si il a besoin de faire un peu plus. En fait, oui, c'est vraiment au gré des besoins que, potentiellement, tu vas venir changer des trucs. Voilà. Et parfois, j'ai l'impression qu'il y a un truc qui pourra aller plus vite. Je vais voir si je peux l'améliorer.
+*Je crois qu'une des choses qui me me choquent le plus, c'est notamment la gauche droite. À n'importe quelle élection, en gros, t'as la moitié de la France qui vote gauche, la moitié de la France qui vote droite. Sauf que, tu prend n'importe qui de gauche, si quelqu'un de droite à la table, c'est genre le diable, la finalité c'est d'avoir que des gens de gauche, ou que des gens de droite. Je trouve que ça n'a aucun sens, parce que statistiquement dans ce bar, il y a une personne sur deux statistiquement qui n'est pas du même avis politique que toi. Si tu ne trouve pas un moyen de l'accepter et de parler avec ces gens, mais What The Fuck ? Et cette séparation, les gens ont du mal à l'accepter.*
 
-(...)
+---
 
-Mais vu que c'est pas une... je ne suis pas en train de coder un truc pour une navette spatiale. Oui, ça va. J'ai le droit de me récolter. Donc je pense que, si je recommence à de zéro, je ne sais pas. Je crois que le chemin était tellement important que,
+### Est-ce que pour toi c'est plus facile de parler à une machine via une API, ou un client sur un plateau ?
 
-(...)
+*Il y a des problèmes des deux côtés. C'est quand même plus agréable de parler à des humains. Après, quand il y a trop de bullshit, c'est pas pour moi. Je pense que les gens avec qui j'aime bosser, la question ne se pose pas, avec les clients, avec mes collaborateurs.*
 
-comment te disais tout à l'heure, tu ne peux pas faire directement le bien truc. Tu as besoin de faire de la merde pour ensuite faire le bon truc.
+*Par contre si tu prends les pires clients qui font que du bullshit, là par contre je pense que je préfèrerais faire du code...*
 
-(...)
+> *As-tu une opinion sur le milieu de la publicité ?*
 
-Et donc, même si je faisais un truc de zéro maintenant, dans cinq ans, je le regarderais et je me dirais, ah mais du coup, c'est trop abstrait ou alors genre, je comprends plus que j'ai fait ou...
+*C'est clairement une industrie, basé sur du superficiel principalement. Il ne faut pas y mettre plus de sens qu'il y en a. C'est comme le cinéma, l'art moderne, qui se vend.*
 
-(...)
+*J'accorde beaucoup plus d'importance au moment du tournage, au moment où tu crée un truc, le moment avec les gens, m'intéresse beaucoup plus que le produit fini et l'éventuel message.*
 
-il y a toujours un truc à revivre. La question, c'est, ça marche.
+*L'industrie pourrait changer, je pourrais me retrouver à faire des films pour autre chose. Le fin n'est pas importante, c'est plus le chemin. Mais je pense qu'il y a beaucoup de gens qui y apportent beaucoup plus d'importance que ça n'en a.*
 
-(...)
+## Des anecdotes au passage
 
-Est-ce que tu trouves bordélique? Moi? Oui.(...) Oui, quand même, je suis assez bordélique. Si tu regardes le bureau de mon ordinateur ou mon bureau physique, c'est vite bordélique. Mais maintenant, j'ai appris à documenter des choses. Quand je fais un truc, je documente, je commence.
+### Peux -tu me dire combien de personnes as-tu fais tomber dans le "Club Maté" ?
 
-(...)
+*Pas beaucoup ! Mais ceux qui sont tombé, sont tombé bien bas ! Cette boisson elle sors un peu de nul part, ça a un goût vraiment unique. Je me suis posé la question au niveau de la caféine, je ne buvais jamais de café avant, même si j'aimais l'odeur, c'était donc ma première boisson caféiné, et je sais pas si mon admiration pour cette boisson, c'est vraiment lié à caféine ou pas...*
 
-Je sais maintenant transmettre ce que j'ai fait à quelqu'un d'autre et ça résoule la plupart des problèmes que j'avais.
+*Je pense aussi que le fait que ça soit rare et que ça ai un goût bizarre, ça contribue au côté mythologique. Par contre je pense que la caféine, ça peut vite devenir une habitude de boost...*
 
-(...)
+>*Depuis, Antoine a été contacté par Club Maté pour recevoir un colis de fan pour avoir réparé leur site internet...*
 
-Et quand il faut, je sais mettre de l'ordre. Mais...
+---
+### Où est-ce que tu te vois dans 15 ans ?
 
-(...)
+*Je pense que je suis dans une voie où je peux continuer longtemps. Dans 15 ans je ne sais pas, j'espère que je serai toujours dans une industrie, à la frontière entre technique et artistique. Peux être photo ou vidéo, j'aurai peut-être migré dans un truc plus transversal, mais je crois que je suis dans une bonne veine !*
 
-c'est un peu comme les artistes. J'ai l'impression qu'il faut un peu des post-it partout. Il faut commencer à écrire 10 chansons pour en produire une. Il faut... il faut mettre à la poubelle 3 scripts avant de faire ton film. 3 scripts, c'est plus tôt 30.
+---
+### Qu'est-ce que tu conseillerai à un jeune qui hésite entre devenir ingénieur ou artiste ?
 
-(...)
+*Je ne suis ni l'un ni l'autre, je suis mal placé  pour vraiment répondre... C'est pas les mêmes combats. Si tu veux vraiment être artiste, il faut apprendre à se vendre soi-même, ce qui est un job à part entière, que moi j'aime pas. Et aussi ton art devient un métier, qui peut donc devenir un enfer personnel. Et du côté ingénieur, c'est surtout que tu perds ta liberté, c'est plus rigide. Mais je ne suis ni l'un ni l'autre, et je suis très content d'être au milieu.*
 
-Je suis bordélique, mais...(...) mais j'ai pas peur de me mettre à la poubelle.
+---
+### Est-ce que tu es heureux ?
 
-(...)
+*Et bien oui. Sans plus d'explications, oui. Des fois on voudrait que les choses soit mieux, mais tout est déjà vachement bien !*
 
-Ça fait une des c'est médic, c'est un peu...
+---
+### Comment voudrais tu qu'on se souvienne de Papayou ?
 
-(...)
+*Je pense que si on se souvenir de ma personne, je voudrais qu'on se souvienne que je faisais tout n'importe quoi et que le truc qui me faisait le plus plaisir c'était d'aider des gens.*
 
-Ce qu'il fait, c'est qu'on est bordélique, mais tu peux pas te séparer des choses.
+*Après, si je devais avoir un héritage plus profond, je pense que je serais ravit si il y a des gens que j'ai rencontrés qui ont pu se dire... En fait, comme notre ami Gaillard, c'est en faisant n'importe quoi, qu'on devient n'importe qui. C'est ce lançant dans n'importe quoi, qu'on arrive nulle part et partout, que rien n'a de sens, mais tout est intéressant, que rien n'est grave, mais... Il y a mille trucs....*
 
-(...)
-
-Biogène.
-
-(...)
-
-Ah, c'est bon.
-
-(...)
-
-Tu vois, moi je me souviens de bureau à Spline. Ouais.
-
-(...)
-
-En fait,
-
-(...)
-
-je ne porte pas un... je viendrai peut-être pour faire la une des photos de l'article. Je passerai dans ces quatre... à plein bureau et je prendrai un photo de l'article. Parce qu'il est lu tellement bien qui tu es. Qu'est-ce que tu fais en ce moment, parce que tu as fait plein de choses, mais en ce moment, c'est vraiment une... je trouve que c'est une capure mentale de ce qui t'intéresse.
-
-(...)
-
-Vraiment,(...) des moteurs, des dessins hauts, des alliés, des machins.
-
-(...)
-
-Ce bureau, je sais en...
-
-(...)
-
-Je passerai une grande ces quatre pour prendre un photo.
-
-(...)
-
-Mais le problème de ma vie, c'est le focus.
-
-(...)
-
-C'est dur de se faire pour faire sur un truc de manière continue. Et c'est pour ça que le Covid a été génial pour moi. Parce que j'étais en prison, en gros, avec une seule idée.
-
-(...)
-
-Et du coup, tout le temps nécessaire pour la concurrence. C'est pas vrai.
-
-(...)
-
-On devrait envoyer tous les développeurs en prison.
-
-(...)
-
-Oh mon Dieu. Et du coup, sur le terrain pour consigner sur Presto,
-
-(...)
-
-est-ce que il y a eu un moment stressant, le truc marchait plus et vous avez fait putain de merde. Qu'est-ce qui se passe ou est-ce que il y a eu un problème où quelqu'un a été blessé ou une vie grave?
-
-(...)
-
-Blessé, non. Parce que... Bon, oui. Oh!
-
-(...)
-
-Alors ça, c'est vraiment marrantis, mais...
-
-(...)
-
-J'ai l'impression que j'ai un peu une phobie de ce truc-là de...
-
-(...)
-
-Tout peut arriver mais ne fait de mal à personne. Comme les médecins.
-
-(...)
-
-Et... Et je pense que je ne touche pas aux choses qui peuvent influencer la sécurité. Ou alors que c'est un truc que je touche...(...) Si j'y touche, c'est que je vais passer des heures à regarder comment ça marche.
-
-(...)
-
-Pour tout le reste, oui, j'ai eu plein de bugs. J'ai eu plein de fois où j'étais en tournage et je m'aperçois qu'il y a un bouton qui marche plus, genre...(...) Ah merde!(...) C'est le moment d'envoyer une trajectoire et là, il y a un truc qui marche plus.
-
-(...)
-
-La beauté, c'est que c'est moi qui développe. Donc, normalement, en quelques minutes,
-
-(...)
-
-je vais mettre la virgule là où j'ai oublié ma virgule.(...) Et ça a parti. Ça arrivait plein de fois. Parce que... T'aurais beau faire tous les tests de ta vie. Mais le monde réel...
-
-(...)
-
-Le monde réel, c'est la merde.
-
-(...)
-
-Et le seul moyen de trouver un bug, c'est de tester.
-
-(...)
-
-Et quand tu test à la maison,(...) c'est jamais comme tu test dans le monde réel.
-
-(...)
-
-Oui, non.
-
-(...)
-
-Du coup, ça va. J'avais jamais voulu laisser personne avec un robot. Non.
-
-(...)
-
-Il y a des gens qui se font mal parce qu'ils se font reliver sous le robot. Ah oui, mais c'est pas de la faute du robot. C'est pas la faute du robot, mais...
-
-(...)
-
-C'est un truc qu'il faut jamais oublier. C'est que ce qu'on fait, c'est super dangereux.(...) Et comme un pilote de course, c'est un cascadeur. C'est rigolo. C'est des trucs de dingue, c'est marron de le raconter.
-
-(...)
-
-Mais...(...) On fait fait le truc. Il faut te dire, ma voiture, elle peut aller dans le public.
-
-(...)
-
-Le robot, il dépense des gens.
-
-(...)
-
-En fait, moi, je sais que c'est un truc important.
-
-(...)
-
-Toutefois, quand j'étais jeune, je faisais du jonglage enflammé. Et c'est rigolo, ça exhalte. On t'a de la dronaline. C'est incroyable. Mais quelque part, il faut...
-
-(...)
-
-Si tu veux s'abourrer, c'est vraiment que tu te proutes trop de temps. Parce que tu mets en péril la vie d'autres filles.
-
-(...)
-
-Aujourd'hui, est-ce que tu te penses que ce mec pourrais se passer deux fois?
-
-(...)
-
-Non, on arrive sur une question un peu plus dive. Ah, t'as l'asso. Si ça te...(...) Et oui, je l'ai pas dit. Si tu n'as pas envie d'y répondre dans une question, tu n'y répond pas. Je pense que... C'est un truc pour se passer de moi très bien pour... Là, si je dis «sparaissez», C'est un truc pour continuer à faire des tournages et continuer comme... comme de rien, sans problème.(...) En fait,(...) je pense que le moment... C'est le moment venant de...(...) de modifier, d'innover, d'implémenter des nouvelles choses.
-
-(...)
-
-Ce n'est pas ce qui se passerait, parce que...
-
-(...)
-
-ce que j'ai fait est tellement personnel même si je ne me suis pas mis pas mal de choses et que je ne me suis pas mis pas mal de choses.
-
-(...)
-
-Si je dis «paraissez», peut-être que à moyen terme, il faudrait qu'il passe sur un autre logiciel. Et là, il pourrait reprendre avec un nouveau développeur.
-
-(...)
-
-C'est une mode que... Je ne sais pas si un nouveau développeur(...) pourrait reconvendre mon code.
-
-(...)
-
-Ce serait plus facile de partir d'un autre code dans l'étérième. Bonne question. Je suis pas sûr.
-
-(...)
-
-Autre sujet maintenant pour nous allonger un peu de ratio, même si au fond, c'est lié... C'est moins lié au robot, mais c'est un projet qui t'a pris pas mal de temps. Je me souviens, la dernière, c'est la tournette. On est en testipé, là-dessus. On entend que... derrière, tout ça. Et ceux, tu peux me raconter un peu l'histoire du révélopement de toi... de toi, cette petite bestielle. Pas ça.
-
-(...)
-
-Et surtout, comment tu l'as intégré dans testipé.
-
-(...)
-
-Yes, there's a guy. There's a guy. There's a guy. There's a guy. J'ai l'impression que l'histoire à la réalité, c'est que...
-
-(...)
-
-parfois, un truc qui a l'air simple est quasiment impossible. Un truc qui a l'air fin de se révéler quasiment inattédiable. Voilà.
-
-(...)
-
-Dans les premières années de test-pouche, j'ai développé les functionalités essentielles.
-
-(...)
-
-Assez vite, on peut guimer, parce que...
-
-(...)
-
-ils étaient directs. Le chemin était en clou de roi pour y aller.(...) Mais après, il y a toujours eu plein de petites functionalités. Le truc qui me dit, mais ça, il faudrait que ce soit si ça l'air bien, si ça lui faut l'avoir, il faut l'avoir.(...) Quelques trucs dont la tournette, qui sont d'air simples, mais... la tournette, je crois que c'est à 1,4 ans.
-
-(...)
-
-Parce qu'en cours de route, moi, je n'avais pas trop le temps par les connaissances, donc c'est des jobs qu'on a donné avec des alternants.
-
-(...)
-
-Il y a plusieurs alternants qui ont bossé la pluie et qui ont rien sorti. Super, merci. Je vais voir la dernière fois. Je ne vais pas attendre, regarde. Est-ce qu'on pourrait avoir de l'eau aussi, en France ?
-
-(...)
-
-Et du coup,
-
-(...)
-
-j'ai vu plusieurs personnes bosser dessus, s'y casser les dents.(...) Et moi-même, il m'a fallu très longtemps pour essayer, regarder mis de choses,
-
-(...)
-
-enfin trouver une petite pluieur vers un truc qui me semble être faisable, que moi, qui me semble être accessible à moi.(...) Parce que t'arrives dans des conflétités où il faut te demander ce que moi, je peux le faire.
-
-(...)
-
-Je pense qu'il y a des gens beaucoup plus compétents qui auraient pu faire un truc de zéro, réinventer la roue.
-
-(...)
-
-Bien avant moi, moi, il a fallu que je vois un ou deux trucs que je peux se découperai de réveiller.
-
-(...)
-
-Et après, c'est allé quasiment tout ça, on va dire. Il a fallu quand même que c'est un peu un tunnel.(...) Comment ? C'est un peu un tunnel. Ça a été un truc qu'il a fallu que je me consacre sans interruption sur ça. Beaucoup plus longtemps qu'il y a d'autres choses. Parce qu'il y a plein de petites
-
-(...)
-
-pour que ça marche bien. Il y a plein de petits détails. Il faut pas qu'il y ait de vibrations pour que ce soit un truc répétable. Le diable est dans les détails. Ça peut pas marcher. On peut, ça doit marcher parfaitement.
-
-(...)
-
-Et il y a une règle dans ma vie, c'est les 80-20.
-
-(...)
-
-Tu passes 80% du temps à régler les 20% de finalisation. Et c'est un exemple typique de ce sens. C'est un des premiers trucs que je suis allé arriver à Espagne. Avec la 4,5 an. Je veux dire que je vous souhaite pour le jeu.
-
-(...)
-
-Mais du coup, j'ai vu ça marcher. Vous êtes capables de la synchroniser avec l'aurore. Absolument.(...) Je pourrais même contrôler. J'ai un appareil là. Je pourrais contrôler 8 tournettes en même temps. 5 euros au robot.
-
-(...)
-
-Ça a donné des idées à des gens. Ça a l'intention de prendre. Attention.(...) Une tournette à format. Une tournette à format. Une tournette à format.
-
-(...)
-
-Une tournette à raclette.
-
-(...)
-
-Est-ce que là, en ce moment, tu as un projet technique qui te prend un temps dans la slide? Est-ce que tu as(...) des occupations? Oui. J'ai un projet, mais il est un peu sepré. Je sais. Je vais t'en parler, mais je ne pense pas le révéler. Mais... Si... Vraiment, on va être. On se rapproche d'un développeur qui a développé un système de contrôle robot. Oui. Et on va...(...) On va utiliser son logiciel et l'intégrer à notre logiciel existant. D'accord. C'est un développeur qui a créé une solution qui est un peu universelle.
-
-(...)
-
-C'est pas un truc avec une interface. C'est vraiment un truc qui parle au robot,
-
-(...)
-
-mais qui permet de faire des choses beaucoup plus avancées. Et moi, je vais... On va lui acheter une licence, etc. On va le payer. Et je peux utiliser son système de contrôle et le relier à mon logiciel. Et ça,
-
-(...)
-
-c'est un truc en réel. Ça va débloquer le contrôle par manette... Par manette de pistachion.
-
-(...)
-
-Ça va... Ça va débloquer du contrôle. Genre, je puisse modifier le cadrage pendant qu'une trajectoire en lecture.
-
-(...)
-
-Plein de petits trucs comme ça, qu'on aire simple, mais qui sont hyper insupportibles. En tout cas, voilà. C'est un... Ça va être indivisible, parce que même pour les opérateurs, ça va rien changer. Mais de manière profonde et interne,
-
-(...)
-
-c'est un peu comme si t'as toujours la même voiture, mais le moteur a changé. Contact s'élère, ça va plus vite. Bien sûr, oui. Il faut pas oublier que tout ce que tu fais là, dans Pesto, c'est intégré dans le blender.(...) Quelque part aussi, oui. C'est quand même assez fou d'arriver pas de voir, en fait, l'étendue de ce que fait le logiciel.
-
-(...)
-
-C'est vrai que pareil, c'est un remix. Merci, J.O.Biel. J'ai oublié le... J'ai oublié le... J'ai oublié le... J'ai oublié le... J'ai oublié le... Merci, J.O.Biel. J'en reviens quand même.
-
-(...)
-
-J'ai oublié le... J'en reviens quand même. Alors,(...) la beauté, c'est que, du coup, Pesto,
-
-(...)
-
-moi, je la maillore, mais blender, à côté, il y a plein de gens qui la maillore, et du coup, je n'ai pas besoin de me l'en occuper.
-
-(...)
-
-Je compte ses buts, et je profite en même temps d'un logiciel open source. T'as mal avec le système ? C'est assez légant. C'est assez légant. Carment. C'est... Parrain. Est-ce que, du coup, on peut parler de ce prochain projet d'acquisition ? Merci. Ce prochain projet d'acquisition, ou est-ce que tu veux me voir avec Romain, la fin ?(...) Moi, c'est pas une action même. Le mec, à sa boîte, nous, on va juste payer des licences. D'accord. Un peu comme un huissier. Et ça, en vrai, nous, on va le garder secret. C'est vraiment vraiment... C'est la sauce interne, car...(...) C'est comme si on changeait notre chronisseur de papier toilette ou de liquide vaisselle. En fait, on peut dire que vous allez apporter juste plein de modifications qui vont être trop bien à vos robots. Tout d'un coup, il va y avoir plein d'améliorations. On va dire, on peut utiliser ça, on peut faire ça, on peut machin.(...) Mais au final, tu vas avoir aucun changement hardware, peut avoir aucun changement,
-
-(...)
-
-même dans l'interface.
-
-(...)
-
-C'est purement... sous-jacent.
-
-(...)
-
-Voilà. Finalement. Par contre, parlons du plus gros projet de Spline, sans le plus gros projet que toi tu es fait, qui est sorti il y a pas longtemps d'ailleurs, l'HQR. Spline a travaillé dessus. Le film de Yann Kuhnen, après le récit de... Je sais plus qui l'a écrit.
-
-(...)
-
-Quels sont les défis ? Quels est-ce que vous allez du faire dessus ? Qu'est-ce que toi, tu as du faire face comme des filles ? Qu'est-ce qu'il t'a ? Des bâtons dans les roues ?
-
-(...)
-
-Le défis, il est assez simple, c'est tout d'un coup, tu dois pas bosser sur une journée, tu dois bosser sur 40 journées, tu as 250 plans,
-
-(...)
-
-donc il y a un côté industriel, à ce que tu vas faire.
-
-(...)
-
-Et en plus, il y a un complexité technique, qui est un trucage, un effet spécial, un effet spécial.
-
-(...)
-
-Qui a déjà été fait, mais jamais vraiment comme ça,(...) jamais avec ces machines-là, jamais avec autant de plans.
-
-(...)
-
-C'est un énorme remix, parce que si tu prends les éléments 1 par 1, ils vont déjà être fait à gauche, déjà être fait à droite, mais ce qu'on a fait avec le niveau de complexité, avec le nombre de plans,(...) avec la fossilité qu'on l'a fait, ça n'a jamais été à beaucoup. Et le challenge, ça a été d'inventer les solutions,
-
-(...)
-
-les fonctionnalités, qui ont rendu le truc, non seulement possible, mais aussi hyper rapide.
-
-(...)
-
-Je pense que d'autres sociétés auraient pu accomplir ces plans. Est-ce qu'ils auraient pu en faire un 10 par jour ? On ne se parle pas. Et c'est là que l'aspect customisation, le fait qu'on code met le logiciel, a tout changé, parce qu'il y a quelqu'un qui arrive avec un problème,
-
-(...)
-
-et moi j'ai dit, Marie-Claire, je vais écrire les 2 000 lignes de code nécessaires pour exécuter ce problème spécial.
-
-(...)
-
-C'est vraiment un histoire de customisation. Il y a quelqu'un qui a un problème précis, qui n'apporte plus une réponse précise. Je vous en ai compte de la force que vous avez à Spline. En fait, avec la taille que vous avez, avec l'intensité des connaissances que vous vous regroupez tous dans cette boîte, la puissance de feu que vous avez,
-
-(...)
-
-enfin moi je trouve ça extraordinaire. D'arriver à avoir, enfin de faire autant de choses différentes et pouvoir se contorsonner dans tous les sens pour faire marcher quelque chose. Ce serait génial. Je pense qu'on réacte un petit peu, mais je crois que le problème du monde entier, c'est un peu ce qu'on parlait tout à l'heure, c'est dur de déléguer.(...) Pour déléguer, il faut déjà comprendre le problème qu'on a, la tâche qu'on a,
-
-(...)
-
-et il faut trouver la personne qu'on pense qui va pouvoir la complir.
-
-(...)
-
-On a des gens qui ne sont pas nombreux, et on ne connaît pas la personne qui a déjà exécuté la même chose. Et nous, on est dans cette situation, on a des capacités de dingue.(...) Il y a des gens qui ont des problèmes, ils ne savent même pas ce que c'est vraiment leur problème, ils ne savent même pas si ça existe quelqu'un qui le réveille. Et on a un peu dans cette situation où on est gens qui viennent nous voir avec un problème improbable, très souvent on peut y répondre,(...) mais très souvent les gens,
-
-(...)
-
-ils ne vont même pas trouver quelqu'un pour résoudre.
-
-(...)
-
-Et donc c'est un peu sûr que nous on sait qu'on peut accomplir des choses de dingue, mais il y a des gens qui ne viennent même pas vers nous parce que ce n'est pas.
-
-(...)
-
-Et on est là pour essayer de reconnecter les problèmes avec les solutions. Merci pour cette partie, cette tournée.
-
-(...)
-
-Nous avons passé la moitié, des questions un peu plus
-
-(...)
-
-forcément plus généralistes, mais un peu techniques dedans, mais est-ce que tu te considères plutôt comme un technicien ou un artiste ? Où est-ce que tu places le curse ? Le technicien ou artiste, c'est
-
-(...)
-
-tu peux l'élaborer, tu les défauts pour le rentre, pour le moutre. Technicien ou artiste, c'est la grande question de ma vie.
-
-(...)
-
-Je crois que j'ai trouvé le job, je me suis créé le job parfait qui est un peu à la frontière.
-
-(...)
-
-Si je ne me verrai pas être un artiste à 100%, je ne me verrai pas être un technicien à 100%.(...) Quand tu es un artiste, tu peux communiquer et tu peux collaborer avec des gens d'une manière incroyable,
-
-(...)
-
-inventer des choses(...) et ta liberté,
-
-(...)
-
-tu peux te dire ou faire n'importe quoi, c'est faisable.(...) Quand tu es technicien, tu peux avoir une obsession sur des détails techniques.
-
-(...)
-
-Un aspect me plaisent de dingue.
-
-(...)
-
-C'est rare d'avoir une personne qui est pure, c'est rare d'avoir un technicien pure ou un artiste pure. Ce que quand tu as des gens qui ont vraiment
-
-(...)
-
-sur les virtuoses dans une discipline, c'est rarement des gens qui ont une obsession.(...) C'est des gens qui peuvent comprendre que leur technique, il y a une part artistique et que le rare, il y a forcément un côté technique.
-
-(...)
-
-Quand tu es à haut niveau, je pense que les deux se pensent forcément.
-
-(...)
-
-Mais très souvent, quand tu es à haut niveau, tu vas demander de l'aide pour la partie que tu mettes sur le montant.
-
-(...)
-
-Alors que moi, j'ai l'impression que je suis pire au milieu et ma passion, c'est de mettre l'idée à fond les deux, au maximum.
-
-(...)
-
-Mais du coup, je ne serai jamais un virtuosil de l'un ou l'autre. En fait, si tu es certain que tu es sûr, est-ce que ça va être cause d'éducateurs ou surtout...
-
-(...)
-
-Mon choix, c'est de pas choisir. Mon choix, c'est que je quitte plusieurs choses, j'ai envie de faire plusieurs choses et aller vous faire tout autrement.
-
-(...)
-
-Le morcaise. En vrai, voilà, genre...
-
-(...)
-
-L'obsession de la perfection n'intéresse pas. Ce que j'aime, c'est faire plein de choses qui m'excitent, qui changent,
-
-(...)
-
-qui m'apprennent des fruits. Et pour ça, il faut accepter que je serai jamais le meilleur absolu dans une discipline. Par contre, c'est un peu comme un superbe, c'était Baudelaire ou Voltaire qui disait une tête bien pleine ou une tête bien faite.
-
-(...)
-
-Et... C'est un problème philosophique. Moi, en tout cas, je préfère savoir plein de choses sur plein de choses que tout savoir que... Je vais l'enlever.
-
-(...)
-
-Et tu sais que tu connais beaucoup, beaucoup de choses sur beaucoup, beaucoup de choses. Mais la poche, je ne sais rien précisément sur toute la poche. C'est génial. Du coup, je vais faire ça, la question tient un peu à la plus, mais le code tu tiens mis grâce à Pesto peut-être un peu avant. Trace au Covid, grâce à Pesto. Tu me disais que tu faisais un truc de plus pour web avant ? Quand j'étais un ado, tout le monde a fait un sky blog, tout le monde a...
-
-(...)
-
-Moi, j'avais fait un petit sub-web que je aimais mis à jour, mais
-
-(...)
-
-j'avais envie de le faire.
-
-(...)
-
-J'ai vite été limité parce que(...) j'ai eu des compétences de dingue.
-
-(...)
-
-J'ai un peu galéré, j'ai fait des copiers collés, j'ai pris collé.(...) En tout cas, ça m'a introduit ça a fait que j'avais pas peur de voir un peu de code.
-
-(...)
-
-Et que je savais qu'en copter en colons assez de choses, ça finirait pas marcher.
-
-(...)
-
-Oui, oui. Pour le coup, de lancer dans le développement de Pesto, qui est quand même un certain morceau, je n'avais pas peur en fait.
-
-(...)
-
-Mais peut-être la première et...
-
-(...)
-
-Il y a le bien-mâts, ce qu'il a de bien-mâts ? J'avais pas peur parce que j'avais aucune attente et aucune certitude.
-
-(...)
-
-En vrai, on avait embauché des gens pour développer un logiciel, ça n'a pas marché.
-
-(...)
-
-Et au moment du Covid, on n'avait rien, on n'avait pas de sort de sorties. On avait un système anus, qui était inefficace.(...) Et au moment où il y a eu Covid, je me suis dit est-ce que moi je pourrais pas faire un truc basique, et ça ça pourrait me servir à montrer à quelqu'un ce qu'il faut faire.
-
-(...)
-
-Je savais même pas ce que je faisais. J'étais là, genre,(...) je vais essayer de faire les trucs les plus basiques, merdiques que je peux.
-
-(...)
-
-Et puis de fil en aiguille,
-
-(...)
-
-les 100 lignes de code sont venues, 1000 lignes de code et 10 000 lignes de code.
-
-(...)
-
-Mais il y avait vraiment...(...) Je me suis pas dit, je vais faire le logiciel, je me suis dit Blender, c'est rigolo, on peut faire du code, oré. Mais on se détruit. Et si j'arrivais à faire un truc merdique, au moins je pourrais peut-être visualiser quelque chose.
-
-(...)
-
-Je savais pas quoi m'attendre.
-
-(...)
-
-Et au fur et à mesure, une fois que tu poses 2 3 bricks, tu te dis si j'en mets encore 2 ou 3 autres, j'aurais bien toi nu. C'est ça. Je me suis pas dit, je vais construire une maison, je me suis dit, je vais poser 2 bricks par terme.
-
-(...)
-
-Quand j'ai eu 3 bricks et qu'elles ne sont pas tombées,(...) on va continuer du truc.
-
-(...)
-
-Quel est ton regard sur le développement de Blender ?
-
-(...)
-
-Est-ce que t'en suis ou est-ce qu'il y a des trucs qui manquent ? Est-ce que je vais te documenter ? Est-ce que...(...) Je trouve que c'est incroyablement ouvert.
-
-(...)
-
-Si un truc que je n'arrive pas à faire, généralement, c'est que je n'ai pas les compétences. En plus, maintenant, avec Lillard, il y a plus. Avant, il fallait aller sur Stack Overflow, et fouiller pour trouver ma tante à Aliyah qui va te donner un peu de truc plus des solutions.
-
-(...)
-
-Je ne vois pas vraiment le limite.
-
-(...)
-
-La limite, c'est combien de temps tu veux y passer, et potentiellement, si tu voulais autoriser pour faire quelque chose à une très vite, là, il faut modifier le pote de Blender en C, le C++, et là, ça devient plus complexe. Mais plus qu'en Python, pour que tu puisses pouvoir être pour AIMOA dans la vraie vie,
-
-(...)
-
-on va voir quels sont les limps.
-
-(...)
-
-La question sur Resolve, maintenant,
-
-(...)
-
-on a souvent débattu à Spline, pour AIMOA, sur la pratique de travailler encore en Managed ou non.(...) Toi, tu es quelqu'un qui ne travaille pas en Color Managed, et aujourd'hui, c'est rare, c'est genre, parce que tout le monde, aujourd'hui, c'est mettre un CST à la fin de son autre graphe, et dire, ouais, c'est bien, je suis en Color Managed, et je veux juste avoir ton point de vue. Je ne vais pas(...) imposer le point de vue, parce que je veux juste avoir plein de conduits à travers. Moi, je dirais que mon point de vue, il est forcément un peu moins pertinent, il n'y a pas un problème que je trouve. Je ne passe pas mes journées à livrer des fichiers, je n'ai pas des clients comme Netflix qui ont besoin de faire du HDR ou des trucs comme ça.(...) Mon expérience, c'est que dans 9K sur 10, on demande un truc pour Internet, Instagram, YouTube, digital.
-
-(...)
-
-Éventuellement, la télé, mais la télé, il se rend tard, surtout pour les avancées technologiques.
-
-(...)
-
-Donc, en ce cas, dans 9K sur 10,(...) le livrable est simple, il est straightforward,
-
-(...)
-
-il ne nécessite pas de conversion compliqué, c'est un espace que l'on a tout simple.(...) Et donc, mon interprétation, c'est
-
-(...)
-
-est-ce que tu as besoin de confier une centrale nucléaire ? Tout ce que tu as besoin de faire, c'est tourner une manivelle.
-
-(...)
-
-Ça montre que la manivelle existe déjà.
-
-(...)
-
-Et on est à des choses que je n'ai pas envie d'apprendre ni de mettre en place une nubine à gaz pour que peut-être dans 5 ans, quand il y a un remaster de la pub de mayonnaise que j'ai fait, je puisse la sortir en HDR.
-
-(...)
-
-Je n'ai pas besoin. Actuellement, le genre, il vaut un truc simple, pas cher.
-
-(...)
-
-Écouter en place pour le faire en srgb, rex709. Moi, je considère que souvent la solution la plus stupide, la plus simple, la plus vite te casse,
-
-(...)
-
-c'est la meilleure.(...) C'est génial.
-
-(...)
-
-J'ai pas envie de compliquer les choses quand il y a beaucoup de gens qui aiment compliquer les choses
-
-(...)
-
-parce que ça a l'air, peut-être, la bonne chose à faire.
-
-(...)
-
-Moi, je pense que la bonne chose à faire, c'est la chose qui marche. Et souvent, c'est la chose la plus simple.
-
-(...)
-
-Donc, tu n'es pas bloqué. J'ai livré des diennes de films.(...) J'ai généré des milliers de roadshifters d'affaires avec une manivelle.
-
-(...)
-
-Et jamais personne n'est revenu en me disant « Ah mais,
-
-(...)
-
-jamais ». Est-ce qu'il y a des choses à apprendre là-dessus sans doute ?
-
-(...)
-
-Je pense qu'il faut apprendre à choisir le niveau de complexité qu'on a envie d'apprendre.
-
-(...)
-
-Ça respecte complètement les gens qui vont dans la complexité, l'abstraction des choses.
-
-(...)
-
-Mais parfois, ça peut être une perte de temps et d'énergie mentale. Et c'est là que la technique va un peu doubler l'artistique.
-
-(...)
-
-Parce que l'artistique n'a pas besoin d'un work-work que l'on a allagé, d'un DCTL, d'un espace colorimétrique. J'en sais rien.
-
-(...)
-
-L'artistique a besoin d'une bonne idée.
-
-(...)
-
-Et la bonne idée, tu la trouves pas en comprenant comment fonctionnent auquel on a allagé. Je t'enverrai quand même des films qui sont très importants. Je t'enverrai quand même des liens malgré tout. Les gens qui font du colorimétrique font qu'ils m'ont envoyé des liens.(...) Mais non, mais ça intéresse pour tes besoins à toi ce qui te fait confiance que tu n'es pas cherché. Je sais que c'est important, mais pour ce que je fais en tout cas, ils ne sont pas besoin.
-
-(...)
-
-Mais quelqu'un qui l'utilise, je ne vais jamais l'arrêter,
-
-(...)
-
-je vais le respecter.
-
-(...)
-
-Parle-nous de la nouvelle de la nouvelle à pays de résolves. Ce qui est un petit moment qui est sorti. Surtout qu'est-ce qu'elle t'a permis de faire notamment avec le montage de L'Mbox qui parlait tout à l'heure. La pays de résolves, c'est un peu comme la pays de Blender. C'est l'ouverture d'un monde où tu automatises les choses. Personne n'a envie de coder un leucel de montage et tout le monde a envie de le modifier.
-
-(...)
-
-Parce que tout le monde a envie d'un lutton qui fait le truc qu'il a envie que c'est le rêve de tout le monde.
-
-(...)
-
-Et du coup d'avoir un appui, ça permet ça. Ça permet que un truc qui te prend 20 clics devient 2 clics. Un truc que tu as un truc que tu fais tous les matins tous les soirs ou 10 fois par jour tu le automatises ça devient invisible.
-
-(...)
-
-Je pense que toutes les applications qui ouvrent une API qui donnent une possibilité de scripter elles ouvrent les portes à plein de marché elles ouvrent même des marcheurs qui exigent hier
-
-(...)
-
-tu peux créer un script une application à adon que tu peux vendre
-
-(...)
-
-c'est comme ouvrir un marché c'est comme dire tiens moi je fais ce que je fais mais tu peux venir t'as une petite place pour augmenter ce que je fais
-
-(...)
-
-tu peux aussi être créatif pour te détourner dans le ciel pour lui faire faire un truc qui n'est pas très destiné moi je te le réserve pour une automatisation en live ça ne va jamais été créé pour ça mais pourquoi pas
-
-(...)
-
-c'est
-
-(...)
-
-un truc à la fois mais Steve Jobs a dit
-
-(...)
-
-voulait que son ordinateur le max soit comme un peu la bicyclette de l'esprit et c'est génial parce que notre esprit est hyper puissant(...) mais
-
-(...)
-
-notre corps humain le corps humain est un peu liable tu peux souver de la masque, tu peux courir un marathon mais c'est limité si je te donne une bicyclette tu peux traverser un continent(...) genre n'importe qui peut faire des kilomètres à des kilomètres que tu ne pourrais pas faire au point où tu peux le faire à bicyclette c'est un outil simple, élégant, pas cher accessible qui te permet de multiplier ton potentiel par
-
-(...)
-
-plusieurs ans entre grandes et du coup la paix, le script, un moule de code ça permet ça conserver, il est capable d'un truc
-
-(...)
-
-mais si tu as une bicyclette tu peux aller beaucoup plus loin il n'y a plus une API, c'est vraiment ça c'est une bicyclette il y a des gens qui savent en faire, il y a des gens qui nous ont des roulettes chacun son niveau en tout cas c'est là tu parles avec beaucoup d'admiration c'était bien de plaisir voir avoir le truc que tu veux
-
-(...)
-
-tu as une fabrication
-
-(...)
-
-c'est clair que c'est beaucoup c'est beaucoup plus satisfaisant quand tu as fabriqué, quand tu as un modulité et un outil
-
-(...)
-
-si tu manges dans une assiette que tu as fait toi mes mains céramiques la nourriture est meilleure sur une cuisine avec un coutour tu as forgé, la cuivine est meilleure
-
-(...)
-
-c'est une satisfaction
-
-(...)
-
-c'est quoi
-
-(...)
-
-l'ogiciel qui te procure le plus de satisfaction tu as procuré le plus de satisfaction
-
-(...)
-
-par la photo je pense que ça change un bon logiciel qui ne se met pas en travers de ton chemin et que tu peux adapter à ce que tu fais et je crois que pour ça je vais mettre au même niveau Blender et Touch Designer
-
-(...)
-
-parce que c'est déluciel dans lequel tout est possible la limite c'est de ton imagination mes compétences
-
-(...)
-
-j'ai l'impression que
-
-(...)
-
-Photoshop, Adobe DaVinci ça marche très bien
-
-(...)
-
-mais tu ne peux pas tout faire ce que tu veux et donc je dirais Blender ou Touch Designer c'est un champ dépostible un peu ce best on parlait d'IA tout à l'heure notamment sur le code c'est quoi ton point de vue sur vape budding est-ce que tu intègres les outils d'IA dans ton workflow ou dans ta vie ou est-ce que au contraire tu as plus ça que une bourse spéculative ou avec un peu de défiance ou est-ce que tu le sais au contraire tu as une question de code un peu chanque tu sais pas en vrai il y a un peu tout
-
-(...)
-
-c'est comme les cryptomonnaies ou c'est comme n'importe quoi c'est comme
-
-(...)
-
-le système monétaire ça a des mauvaises aspects ces mauvaises aspects peuvent entrer les décrits il y a plein de gens qui peuvent les détourner
-
-(...)
-
-des mauvaises activités voilà tu peux mettre plein de règles pour essayer d'empêcher de nous atténuer ces mauvaises aspects je pense que pour l'IA il n'y a pas encore eu ces modérations
-
-(...)
-
-je pense que l'IA peut entraîner plein de problèmes l'IA va entraîner un peu une crise dans plein de secteurs c'est la vie
-
-(...)
-
-après clairement moi je l'utilise beaucoup de choses poddées parfois aussi pour des questions genre si tu as une question légale administrative un peu une question de vie un peu que tu as peut-être un Google tu vas avoir un conseil l'IA est pratique pour te donner des bullet points je pense que l'IA c'est devenu un peu un parallèle de Google il y a un web-encerre c'est là que tu vas chercher des réponses pour le code c'est clairement un truc puissant de dingue c'est comme
-
-(...)
-
-à bras sans d'aller avec code photocomplet
-
-(...)
-
-maintenant je pense que(...) quand je fais de l'IA c'est plutôt pour résoudre des petits bouts de puzzle parce que j'aime garder la main sur l'architecture de ce que je fais il y a des gens qui vont faire créer une application intérieure à l'IA
-
-(...)
-
-ça peut marcher parce que c'est une super idée je suis pas sûr parce que quand tu as besoin de revenir derrière c'est rarement facile en plus vu que tu n'as pas écrit le code toi-même c'est forcément paumé
-
-(...)
-
-ça peut réaliser des choses est-ce que ça va devenir la norme on parle
-
-(...)
-
-est-ce que ça rend l'asprin de sous-fils de bon niveau
-
-(...)
-
-c'est un peu comme pour Stasier c'est ton outil qui travaille c'est comme une visseuse
-
-(...)
-
-c'est génial c'est pas ça qui fait qu'il va construire une plus grande maison c'est pas ça qui fait que tu vas faire une plus belle maison mais maintenant tout le monde a besoin de une visseuse
-
-(...)
-
-c'est... Parallèle avec tout ce que tu sais faire, toutes tes connaissances tout ce que tu as acquis si aujourd'hui on t'est l'éporter au 19ème est-ce que tu serais vu comme un érétique ou est-ce que tu serais un grand inventeur industriel est-ce que tu as rentré des choses absolument fidables ça j'adore parce que c'est un truc hyper courant je reviens 300 ans dans mon avant et en fait on est complètement con genre oublie alors dans le futur on a des iphone mais comment ça marche ah bon(...) l'électricité
-
-(...)
-
-je pense que je pourrais donner plein d'idées à plein de gens mais je pourrais pas inventer les choses qui ont déjà été inventées mais je pourrais les voir je pourrais les voir sans inventeur et leur dire et si tu devrais essayer un truc comme ça vous avez déjà fait ça ouais ça ça a l'air rigolo
-
-(...)
-
-tu as une chose la qui peut sonne je pense que je serais un très bon mentor
-
-(...)
-
-mais un mauvais inventeur pour devenir inventeur il faut quand même être un peu obstiné il faut avoir passé beaucoup de temps sur des choses moi quand je t'ai vu bosser à spline les sujets que tu mettrises sur lesquelles tu fais des choses sans aucun doute t'es quelqu'un d'extrêmement obstiné qu'est-ce qui se passe dans ta tête quand tu bules sur un problème ou alors que il y a un problème tout qui arrive devant moi qu'est-ce qui se passe là le problème arrive en numéro 1 il y a un disgement de valeur est-ce que c'est un problème grave est-ce que c'est un problème qui peut attendre
-
-(...)
-
-est-ce qu'il vaut la peine d'être résolu si je le résous est-ce que c'est un truc que je vais réutiliser ou pas il y a directement un jugement est-ce que ça vaut la peine parce que souvent ça vaut pas le coup il vaut mieux faire le truc à la main et demain c'est oublié après il y a souvent des problèmes on se dit ah oui ça c'est un truc un peu au coeur de ce que je fais c'est prendre le versage ça va servir à mes collègues et je pense que quand je vois ça le problème ça devient un petit post-it dans ma liste et je vais y revenir je vais y réfléchir je vais y penser dans la douche je vais y passer en blanc d'ormand et il y a un moment où je vais avoir une petite intuition de comment je vais pouvoir le faire et là je vais faire 2 nuits blanches et le résoudre et c'est pour ça que moi je crois que je suis très bon à résoudre si le problème je peux le résoudre 2 nuits blanches(...) je le fais par contre si ça prend 1 mois de nuits blanches là ça devient problématique
-
-(...)
-
-il faut du temps il faut un suivi et ça ne fait que sur le quai de jeu de travail
-
-(...)
-
-est-ce que du coup
-
-(...)
-
-pour te décrire le terme inventeur fou se réadapter
-
-(...)
-
-c'est des nuits ontaires dans son labo inventeur je sais pas fricolore je pense que là j'ai déjà un peu la réponse
-
-(...)
-
-mais je n'ai pas l'impression que je sois quelqu'un d'ancieux
-
-(...)
-
-j'ai pu l'être mais non je suis très bien oncieux parce que à mes yeux rien n'est grave
-
-(...)
-
-tant que personne est blessé tant que tout le monde est bien tant que tout le monde est là rien n'est grave je ne pose pas d'envrner le putain si je fais un truc dans mon job
-
-(...)
-
-c'est de l'argent
-
-(...)
-
-je veux dire je ne sais pas grave
-
-(...)
-
-tout ce qu'on fait c'est du temps il vaut mieux garder ses amis et perdre son job je retrouve toujours un job il y a plein de choses qui sont pas remplacables mais tout ce que je fais ce n'est pas très profond je ne sais pas il y a un truc que c'est dans plein de films c'est une réplique classique
-
-(...)
-
-les gens peuvent me demander mais ça t'inquiète pas et moi ma réponse c'est genre mais est-ce que ça aiderait si je m'inquiétais
-
-(...)
-
-voilà c'est un peu un truc d'autiste c'est très bien c'est super fluide donc super
-
-(...)
-
-est-ce que malgré tout ça pourquoi tu te sens un peu désoverer ou est-ce que t'arrives à t'ennuyer
-
-(...)
-
-maintenant c'est rare(...) je crois que c'est je trouve que c'est bénéfique de se nuyer et dans notre monde c'est plus difficile que moi(...) quand j'étais petit quand j'étais jeune je m'ennuiais
-
-(...)
-
-j'ai l'impression que je donne maintenant t'as plus d'ennuie si je me suis mis à coder pendant la Covid c'est parce que je m'ennuiais quand tu t'ennuies soit tu te mets à faire de la merde
-
-(...)
-
-soit tu te mets à faire un truc que t'as envie de faire
-
-(...)
-
-et du tout
-
-(...)
-
-c'est bien de générer du temps où t'as rien à faire mais c'est vrai
-
-(...)
-
-peut-être sa mère c'est tout sérieux d'amour
-
-(...)
-
-c'est quoi ton rapport à l'argent
-
-(...)
-
-l'argent c'est pratique(...) c'est pratique
-
-(...)
-
-c'est très bien j'ai envie de dire je suis pas plein de gens
-
-(...)
-
-parce que j'ai gagné de l'argent mais si j'avais 2 fois plus d'argent ma vie serait pas différente
-
-(...)
-
-j'ai un doigt au-dessus de ma tête c'est un truc que j'ai envie de jeter
-
-(...)
-
-c'est un truc que j'ai envie de payer un coin à boire je paye un coin à boire c'est complètement assez d'argent
-
-(...)
-
-j'ai toujours été inquiet de pas en avoir assez donc j'en ai accumulé et maintenant que j'en ai accumulé un peu assez j'ai plus peur c'est bien d'avoir un parachute parce qu'une fois qu'on a un parachute
-
-(...)
-
-que t'es zéro en plus, zéro en moins ça change rien je sais pas, je n'y accorde pas beaucoup d'importance tant que je peux avoir de l'avance tu sais que j'ai un parachute qui se ment pas
-
-(...)
-
-c'est quoi la chose la plus absurde ou la plus chère que tu as acheté alors, absurde(...) j'aurais peut-être pas dû acheter ça c'est vraiment inutile j'ai acheté un tas de trucs absurde des gadgets
-
-(...)
-
-des trains miniatures qui servent à servir des shooters avec des fins tu vas chez Emmaus et tu vois un objet à la compte tu sais te dire non moi je me dis oui
-
-(...)
-
-donc des objets absurs de plein
-
-(...)
-
-des trucs chers
-
-(...)
-
-j'ai dit putain merde j'aurais pas dû acheter ça c'est vraiment une foudrie
-
-(...)
-
-pas trop, ouais parce que je suis hyper rationnel des fois je vois un truc chers dans un vêtement ou un truc technologique et vu que je suis pas impulsif je vais y réfléchir à deux fois et je vais me dire en fait non c'est moi qui vais attendre un peu trop longtemps avant de c'est genre(...) j'avais des écouteurs filaires de merde pendant trop longtemps j'aurais dû m'acheter des aéroports mais j'ai attendu tellement longtemps j'ai été content de les acheter je suis pas un dépancier par contre si je vois un truc pas trop cher genre un truc à 10 ou 20 balles complètement tôt là j'y vais et personne ne peut m'arrêter insuppable tu sais que beaucoup de gens aiment être dans ta position t'en discusait tout à l'heure que ton chef t'a porté une liberté absolument incroyable est-ce que tu trouves chanceux d'avoir ton travail du travail que tu peux trouver parmi l'aspect dans ma vie j'ai l'impression que je suis très chanceux je suis pas dans la mer j'ai un peu d'argent j'ai un travail qui m'est arrivé par hasard qui me slait que j'ai aidé à voir par hasard je suis jamais eu de gros coups durs dans ma life ou dans ma vie personnelle est-ce que c'est privilégié je sais pas en tout cas j'ai jamais eu de pépins par rapport à plein de gens je suis très chanceux est-ce que il y a plein de gens qui aimeraient avoir ma vie exactement je ne pense pas mais par point d'aspects oui tout le monde a envie de sentir je me sens en sécurité et ça tout le monde en a envie on a besoin je me sens à l'aise dans la peau ça prend vraiment dans un besoin est-ce que quelqu'un voudrait exactement le job et ce que je fais
-
-(...)
-
-chacun a besoin de ces trucs à lui
-
-(...)
-
-mais aujourd'hui tes chefs d'entreprise tu choisis tes orais tu fais le développement que tu veux c'est marrant c'est merveilleux tout ce que j'ai je peux y voir les mauvais aspects aussi oui il y a mal comme quand t'es trop riche il faut m'enager ton argent je sais de quoi quand t'es trop grand appartement pour nous faire le ménage tu peux importer de l'âge tu peux trouver des problèmes
-
-(...)
-
-je pense que je suis très chanceux d'avoir tout ce que j'ai et j'ai beaucoup de gratitude de la voir je sais que cette mesoporaine(...) c'est rien d'être éternel tout le monde disparaît par le jour
-
-(...)
-
-j'essaye de profouter au milieu de ce que j'ai maintenant
-
-(...)
-
-et si je ne l'avais pas avec je voyais quelqu'un qui l'a je pense que je vais avoir envie de la voir j'ai beaucoup de gratitude par rapport à ce que j'ai en tableau Instagram t'as marqué Welcome to the Nonsense yes est-ce plutôt un avertissement ou est-ce que tu as envie de les gens à te suivre c'est une invitation il y a quand même chose dans la vie qu'on ne prend pas au sérieux
-
-(...)
-
-on veut donner douce temps ce chose c'est un peu de la vie c'est un peu de la vie on veut donner douce temps ce chose on veut que nos gestes et nos liens les étoiles dans le ciel sont au vu on veut que les choses soient accordées que les choses aient des causes et des conséquences qu'elles découent, qu'elles soient une récompense qu'elles soient une punition moi je crois pas la plupart des choses dans le monde sont insensées sont randomes(...) elles se paraissent
-
-(...)
-
-il faut à la fois pas s'y attacher mais à la fois en profiter c'est une invitation à dire les choses sont pas si importantes
-
-(...)
-
-il faut vivre oui excusez je vais vous aller dans un autre style qu'est-ce qui aujourd'hui te choque le plus dans le monde actuel(...) qu'est-ce que vous portez là c'est une question qui m'a envoyé un peu avant je l'ai réfléchi un petit peu il y a de deux trucs c'est hyper vague il y a un truc que j'ai l'impression ça relise ce que je disais on apporte de l'importance à plein de choses mais qui sont pas importantes on se focalise sur des trucs on se cristallise on se bloque on se débat avec nos propres trucs
-
-(...)
-
-plus on n'a jamais rien(...) pour ce point instagram(...) on peut retourner voir le devin suivant mais celui d'avant nous n'a rien importé
-
-(...)
-
-on a du mal à savoir ce qui est important pour nous on a produit quelque chose qui ne sert à rien dans nos vies
-
-(...)
-
-on a du mal à faire la part des choses de ce qui est le bon pour nous de ce qui est important pour nous ça tient c'est un truc de base qui m'étonne toujours c'est que les gens ça ne faut pas ce qu'ils veulent ça ne faut pas ce qu'ils veulent faire ils n'arrivent pas à faire des choix qui sont magnifiques pour eux souvent je ne sais pas pourquoi mais c'est comme ça je suis toujours un peu choqué(...) et le deuxième truc c'est que c'est un peu lié à ça c'est que les gens souvent
-
-(...)
-
-c'est un peu lié à l'ouverture d'esprit mais de plus en plus les gens sont prédoués pour juger
-
-(...)
-
-juger
-
-(...)
-
-la compétition c'est genre juger de la bonne manière en voir la bonne réplique trouver le bon argument c'est de vivre une compétition je vais juger ton film alors que j'ai jamais fait de film je vais juger ton émotion alors que je ressens rien je vais juger le mot que t'as dit parce que
-
-(...)
-
-parce que j'ai pas eu à m'exprimer mais toi tu t'exprimes t'as pris le courage de parler mais je juge que t'as pas utilisé le bon mot genre
-
-(...)
-
-des gens se laissent pas à l'erreur ou à l'aractification je trouve que c'est un truc très profond c'est même lié au fait que moi quand j'étais jeune y'avait pas de y'avait quasiment un point internet y'avait pas les téléphones portables partout tu pouvais faire des or, tu pouvais faire de la merde tu pouvais faire des bêtises, tu pouvais te dire de la merde alors quand t'es jeune t'es un gamin tu fais de la merde, t'es cruel tu écrases une fournière, tu fais plein de trucs et c'est mauvais
-
-(...)
-
-mais y'a un peu cette zone brise où tu grandis
-
-(...)
-
-tu réfléchis à ce que t'as fait, je trouve que c'est con tu le fais plus ou alors tu t'es fait punir ou alors on t'a dit c'était pas bien tu grandis en fait et j'ai l'impression que cette part de la part de pouvoir tester des trucs de pouvoir, tu faire tomber des balles en jonglant ça me nuise parce que maintenant quand t'es 8 ans et que tu fais de la merde quelqu'un est en train de te filmer et en disant ça va ressortir
-
-(...)
-
-alors oui c'est pas bien mais quand t'as pas grandit tu sais pas ce que tu fais tant que t'as pas eu une expérience sociale tant que t'as pas fait un date, tant que t'as pas parlé un ami, tant que t'as pas de la merde, tant que t'as pas motivé, tant que t'as pas... tu sais pas pourquoi c'est mauvais, tu sais pas pourquoi ça n'est pas, tu sais pas pourquoi c'est vite il faut avoir caché sa pristesse avant que tu te rendes compte que ça a pas il faut avoir menti un ami avant que ça explose et que tu comprennes qu'il faut
-
-(...)
-
-pas mentir à tes amis il faut avoir menti un ami c'est pareil, genre si un de tes amis te révèle ses émotions, comment ils sont pour rapport à toi, ou ce qui pense de toi, ou ce qui pense de la politique, qui tu es pour rectifier le problème ?(...) qui tu es pour rectifier ce qui vient de dire ? qui tu es pour rectifier ce qui vient de dire ? qui tu es pour rectifier ce qui vient de dire ? tu peux dire que je suis pas d'accord, tu peux dire là ce que tu penses, je pense que ça va dans une direction qui ne plaît pas tu peux dire plein de choses, mais actuellement t'as envie de cancel les gens, t'as envie de dire tu peux pas dire ça, t'as envie de...
-
-(...)
-
-en tout cas moi je suis un peu genre, je suis un autiste le monde il est pas noir, il est blanc, genre quelqu'un de dit de la merde, même si c'est genre un mec de droite quelqu'un de droite parle, moi j'ai envie de me dire c'est si je veux te dire, c'est si je veux te dire que je pense, mais pourquoi je pense ça ? est-ce que ça fait de moi un peu nard ? est-ce que je peux comprendre pourquoi il pense ça ? genre les gens, ça ne se met pas à la place désir et ça ça fait la merde dans le pendrope et moi je sais que quand j'étais jeune les gens faisaient de la merde, c'est ouf et maintenant ils sont bien contents que c'était pas enregistré parce que tous ces gens ils ont changé maintenant t'as 20 ans tu trouves de la merde c'est pour toute ta vie, peut-être et maintenant t'as 20 ans tu trouves de la merde c'est pour toute ta vie, peut-être et maintenant t'as 20 ans tu trouves de la merde peut-être ça c'est un truc que je n'ai pas de c'est un peu une fraude façon du monde mais je sais pas qui est la solution parce que il faut mettre des limites aux choses il faut dire ça c'est mal je le vois pas mais il faut aussi laisser la place pour genre me rendre dire de la merde d'avoir un débat ou t'acceptes que quelqu'un te dit un truc différent et que tu le considères
-
-(...)
-
-je sais pas, moi j'ai grandi parce que plein de gens ils me disent un truc différent de ce que je pensais et après je me suis dit je me suis dit pourquoi est-ce qu'ils pensent ça faire ça c'est une meilleure solution à tel problème ou pourquoi est-ce qu'il faudrait faire ça dans la société parce que moi j'avais pas l'impression que c'était ce qu'il fallait faire et je me suis dit mais si eux ils le pensent c'est peut-être qu'ils ont des raisons c'est quoi les raisons et il y a plein de fois je me dis bah non c'est de la merde ils sont remplis de foutre genre ils avaient mangé du... ah voilà
-
-(...)
-
-il y a plein de fois je me suis dit bah ok je pense je peux me dire je peux me dire je ne vais pas partir en vacances avec eux je ne vais pas que sur mon voisin mais j'accepte que ce mec nous aide il a envie que dans son département que dans son pays on sait rien tu peux voter pour ce que tu veux pas
-
-(...)
-
-c'est comme...(...) c'est comme les accents, avant il y avait plein d'actions différentes tu avais l'accent dans le patois, tu avais l'accent du pays tu avais machin
-
-(...)
-
-maintenant tout a disparu t'as que l'accent des blancs qui parlent sans accent et si quelqu'un parle un accent il faut ensuite sa gueule si quelqu'un fait une blague avec un accent il dit que c'est pas permis c'est chelou parce que là je viens il y a un accent, là où il y a des accents tu vois genre moi je trouve ça cool mais apparemment ça pose des problèmes et de plus on n'a plus le droit pour plein de trucs de la ville c'est ça
-
-(...)
-
-il faut mettre des limites(...) mais c'est pas... c'est un problème de ma life c'est que je suis incapable de mettre cette limite, à quel moment il faut dire à quelqu'un, pas de faire foutre de ta gueule et également il faut accepter que les gens plus n'y entrent c'est un des problèmes dans ma vie en société parce que moi, je suis quelqu'un qui suis capable d'en... si un connard qui n'est là de la merde, je suis capable de l'écouter pour dire explique-moi vraiment pourquoi tu es cette merde je vais pas, au premier mot lui dire t'as pas le droit de dire ça(...) t'as quand même besoin de savoir mais...
-
-(...)
-
-oui je sais pas pourquoi mais je crois que par moments aussi j'apprécie qu'il vient d'inclater qu'il n'y soit un gros nazi et qu'il mette un pain dans la gueule je sais pas(...) c'est un gros dégon je sais pas si tu peux ressentir aussi ce truc d'écart il y a pas honte si je vous décale le cil d'un cran absolument pas, 3 mètres, 3 perso, juste heure ah yes
-
-(...)
-
-un peu d'un peu d'un peu non
-
-(...)
-
-1, 2, 1, 2, 3 pas en vrai j'ai pas en vrai, désolé 4,(...) 3, je me suis perdu est-ce que tu veux prendre un dernier allez, tu sais lequel on va voir si ça marche on va filer un rouge 3, 5, le menu ah yes mais est-ce que tu vois ce truc un peu un truc dont je parle pas souvent parce que selon ceci déjà que tu choisis ça pose problème on va dire
-
-(...)
-
-tu vois moi ce qui me il y a des choses tout ce que tu dis là je connecte tellement sur cette idée de tolérance face à l'échec et à la différence soit tout et au fait
-
-(...)
-
-d'avoir une principe(...) libre en fait(...) parce que quand tu dis par exemple tu peux plus faire de blague à Yéka-Chan parce que c'est pas correct tu peux plus m'offrir de ça parce que c'est plus possible je suis tellement d'accord avec ça mais enfin je suis absolument d'accord avec ça une époque je faisais énormément d'imitation avec des accents oui forcément aujourd'hui je suis dit bah voilà je prends un accent c'est imite la voix ou la manière de parler de quelqu'un c'est une certaine propriation alors que demain c'est pas que je suis ça ça mais le gros sujet autour de ça c'est est-ce que vraiment(...) l'intention de quelqu'un si dit ça c'est de nuire mais comment tu vas vérifier ça ça se demande bah ouais ça demande de sortir la personne ça demande de ça pose plein de questions, des questions éthiques est-ce qu'on va devoir fliquer les gens est-ce que c'est super du quoi pour répondre quel est le mieux à faire en tout cas c'est plus compliqué que de dire
-
-(...)
-
-d'invers lui mais les gens ont besoin de règles bah ouais c'est besoin de noir et blanc il n'y a plus de pensée critique il n'y a plus de analyses pure
-
-(...)
-
-analysons la chose celle qu'elle est sans jugement
-
-(...)
-
-posons un œil neuf dessus mais il y a eu tellement de tu vois moi, enfin j'ai pensé le jour, c'est pour ça que j'ai dû annuler le mardi parce que j'ai dû partir à couper du bois(...) je suis parti en Bourgogne pour aider un pote à couper du bois je sais ça peut paraître débile je le jure je ne vais pas c'est pas pour le... et je me suis rendu compte en fait en coupant du bois allez on rentre dans un moment un peu deep l'année dernière j'ai perdu mon père peut-être que on va le dire je sais pas
-
-(...)
-
-il y a un moment je l'ai emparé
-
-(...)
-
-c'est un truc que je sais parce que(...) parce que je le suis... c'est pas toi qui m'a dit mais t'es parti et je sais que c'est pour ça et je sais que pendant un moment c'est la merde je sais qu'on n'a jamais parlé on parlait que ça a se plaimé mais pas de dit je pense que c'est un des trucs les plus personnes avec qui ça arrive à quelqu'un et moi mon père est très âgé et c'est des trucs qui me met à penser de ouf(...) mais...
-
-(...)
-
-je pense que c'est pas un problème on parle un peu après du coup quand je suis parti là, j'ai fait du bois avec mon box chez son autre
-
-(...)
-
-avec mon père on coupait énormément de bois parce que le bois c'était notre seul moyen de chauffage on avait genre un poil je fais de l'eau, je fais de la dalle tu vas faire tes bûches on essayait très bien d'équiper on avait un tracteur, un trône et en repensant
-
-(...)
-
-enfin quand j'avais la transfineuse en un et que je coupais le narbre enfin je me biennais je me disais putain mais tout ce que mon père m'a appris toutes les connaissances techniques tous les bons sens
-
-(...)
-
-c'est pour revenir en fait sur ce que tu fais sur la question de qu'est ce qu'on peut faire en fait ces règles les règles extrêmement strictes entre guillemets qui ont été mis en place c'est pour faire face aux cons
-
-(...)
-
-d'avoir du bon sens
-
-(...)
-
-alors que mon père il donnait toujours l'exemple de à la montagne on allait souvent à côté de chez nous dans un très long temps il y avait un observatoire il y avait une falaise de 500 mètres et il y avait un pharellier
-
-(...)
-
-parce que le bon sens fait que c'est suffis d'un prombit
-
-(...)
-
-un sel qui tombe bien en roi voilà donc une volonté politique derrière tout ça maintenant on va dire est ce que(...) on va protéger tout le monde et du coup resteraient les libertés de tous ah mais c'est déjà un cas à Alphorville par exemple bon effectivement ça pouvait être dangereux c'est-à-dire un peu vaseux mais il faut savoir qu'à Alphorville il y a toute la LGV sud-est qui passe(...) et les TGV qui vont à Lyon, Marseille, Nice passent par Alphorville et Chambéry et Hens(...) et avant donc tu as les deux voies de RER les quets et sur les côtés tu avais le TGV donc il passe pas à 300 hein il passe à 80 mais avant il y avait pas de barrière il y avait pas de barrière donc effectivement oui c'est logique forcément tu veux mettre des barrières pour protéger les gens(...) mais tu fais à l'aimé par le courant ok
-
-(...)
-
-mais au fond
-
-(...)
-
-moi je pense que c'est un peu lié au PEC euh
-
-(...)
-
-j'ai pas l'impression qu'il y a un ego tu vas dans la rue tu demandes au genre est-ce que tu penses que t'es plus ou moins intelligent que la moyenne 75% des gens sont plus intelligent que la moyenne en gros on est pas capables d'accepter qu'on sait pas les choses que je sais pas les choses que c'est tellement le cas en politique en politique tu n'entends pas un politique dire ah bah ça vous voyez je sais pas je comprends là vous et on pose une col je n'ai pas de réponse mais du coup avoir une nouvelle loi une nouvelle règle c'est pratique parce que c'est plus ta responsabilité non mais ça c'est interdit ou alors si je suis tombé dans la vingt c'est pas parce que je suis con c'est parce qu'il y avait pas de barrière
-
-(...)
-
-c'est dangereux tous les trucs qui sont interdits parce qu'il y a un point qui un jour malencomposement est tombé et c'est tué
-
-(...)
-
-non
-
-(...)
-
-c'est comme tu dis il y avait des limites il faut au machin mais pour une énorme partie des choses en société il arrive il fait de la merde il faut que tu fasses un tour et tu vas finir
-
-(...)
-
-mais ça c'est vraiment une évité mais je suis pas fasse de la merde les gens veulent des règles c'est plus facile d'avoir une règle que d'avoir un disement ça rejette la responsabilité
-
-(...)
-
-c'est un refus de responsabilité c'est un délit de responsabilité on rejette le pied de je vais porter un judgment neutre et genre merde la vie des jours on se prévient pas pour la compétition(...) moi je crois qu'il y a des choses qui me me choquent plus c'est notamment la division genre de gauche, droite n'importe quelle élection en gros la moitié de la France qui vote gauche, la moitié de la France qui vote droite n'importe comment tu l'organise
-
-(...)
-
-sauf que
-
-(...)
-
-tu prends n'importe qui de gauche
-
-(...)
-
-si quelqu'un de droite a la table c'est genre le garde(...) la ténéphé c'est d'avoir que des gens de gauche
-
-(...)
-
-ne sont pas au point de le faire je trouve ça au qu'un sens parce que pour ce bar il y a une personne sur deux statistiquement qui ne sont pas du même avis politique que toi
-
-(...)
-
-s'il ne prouve pas un moyen de l'accepter et de parler avec ces gens c'est pas possible de vivre en sorte c'est quoi le concept et cette séparation les gens du mal a accepté ça tu vas parler à des gens de droite ou de gauche dans le bar de la moitié des gens ils ont un avis politique différent de toi à la table aussi est-ce que tu l'acceptes ? ils sont un genre mieux, moi mes amis ils sont que je suis un genre il y a une désillusion de dingue il y a un comme tu te sais c'est intéressant que tu faises autour de ta question de l'ego après tu n'as pas qu'on avance
-
-(...)
-
-on est pas si mal on a passé la moitié on a passé la moitié
-
-(...)
-
-c'est intéressant parce que tu m'as dit que tu es un peu plus de l'ego et je pense que tu les connais les spectacles sur youtube les deux mecs qui font des années spotécites très neutres ils sont très ils sont très fiers ils essaient de rester très neutres et je me souviens ils avaient fait une super vidéo où tu montrais les politiques en conférence genre voilà
-
-(...)
-
-il y a deux personnes pas un débat c'est pas un débat éliminé c'est pas une interview de radio c'est vraiment une conférence sur un sujet un maître de conférence qui pose des questions monsieur machin qui se vous en pensait comment réagissez-vous par rapport à ce qu'il a dit et les mecs sont d'une maîtrise dans ce qu'ils disent dans un équilibre absolument pas dans des extrêmes ils en sont au contraire
-
-(...)
-
-pas forcément la petite mec ok mais attendez je comprends pas pourquoi vous dites ça parce que vous avez dit que ça mais si on y réfléchit c'est ça et ensuite tu montres ces mêmes personnes machin et machin dans un contexte d'interviews politiques les faits, les défens, les preuves de ce que tu veux les mecs ils se gueulent dessus comme des chiens(...) alors qu'avant alors je comprends tout à fait votre point de vue cependant je voudrais rajouter que tu as pris une étude machin et les mecs ils ont 12 000 points de justification ou 12 000 points et ça y fait l'interesse et à côté là où le truc aura le plus sympa ça va savoir un débat télévisé regarder par les 2000 personnes les mecs pour rien de mieux à dire que mais c'est vous, c'est vous, quoi, c'est moi oui vous mais c'est comme le foot, tu veux être supporter de ton équipe tu vois
-
-(...)
-
-en fait sur ce que c'est à dire de crier pour ton équipe tu peux prendre quoi humain comme ça
-
-(...)
-
-c'est
-
-(...)
-
-bref avançon
-
-(...)
-
-on parlait d'humains justement euh...(...) et de des relations compliquées qu'on peut se voir avec vos congénères
-
-(...)
-
-est-ce que pour toi c'est plus facile de parler à une machine ou un logiciel avec une API ou de discuter avec un client en décision sur un plateau
-
-(...)
-
-ouais ouais, il y a des problèmes des deux côtés ouais
-
-(...)
-
-c'est quoi le plus agréable euh... ouais c'est comme plus rigolo de parler avec des humains
-
-(...)
-
-mais il y a des extrêmes quand il y a trop de bullshit c'est pas pour moi
-
-(...)
-
-c'est pour ça qu'il faut bien choisir ces clients et...
-
-(...)
-
-ouais je pense qu'avec les gens avec qui j'aime bosser il n'y a pas à réfléchir c'est les clients, c'est les gens avec qui j'aime la boarder
-
-(...)
-
-et... par contre si tu crois des mes pires clients les p'tits clients qui ne font que du bullshit là peut-être que c'est pas pareil faire du pain de l'envers mais du coup je me souviens question
-
-(...)
-
-subviaire, est-ce que tu as un avis sur le milieu de la publicité dans lequel on évolue parce que quand même principalement pour la pub est-ce que tu as des... une position dessus, est-ce que y a des trucs dans le milieu, est-ce que...
-
-(...)
-
-ou est-ce que le contraire(...) t'arrives à vraiment faire la part des choses et je peux très bien voir ce que tu fais et le produit que tu crées
-
-(...)
-
-c'est clairement une industrie
-
-(...)
-
-basée sur du superficiel principalement faut pas y mettre plus de sens qui en va mais c'est une industrie
-
-(...)
-
-c'est comme le cinéma c'est comme la peinture c'est comme l'art moderne qui se vend ça dépend des vôtres et...
-
-(...)
-
-et moi pour ma part j'apporte beaucoup plus d'importance au moment... au moment du tournage par exemple la collaboration le moment où tu crées un truc le rapport avec les gens c'est beaucoup plus ça que je regarde
-
-(...)
-
-et même le message de la pub donc moi une industrie pourrait changer je pourrais me retrouver à faire des films pour autre chose
-
-(...)
-
-la fin est peu importante c'est plus le chemin
-
-(...)
-
-mais clairement y a beaucoup de gens qui je pense y apporte beaucoup plus d'importance que ça n'en a
-
-(...)
-
-merci pour cette partie c'est absolument...
-
-(...)
-
-magistrale on partait sur un débat politique un débat social un beau disco ou à finir sur des trucs un petit peu plus léger
-
-(...)
-
-l'année dernière j'ai découvert une boisson ils se poitent les mains parle moi du club Mathis c'est quoi cette boisson combien de gens a tu fait tomber dans le maté pas beaucoup mais ceux qui sont tombés dedans ils sont tombés pire pour tomber c'est ça pour soi je sais quand je m'y suis mis moi aussi mais...
-
-(...)
-
-est-ce que toi tu buvais du café moi je buvais énormément de café quand je faisais mes études parce que je ne pouvais pas tenir autrement mais quand je suis arrivé à Paris j'ai décidé d'arrêter de faire des films je suis allé à Paris quand je suis arrivé à Paris j'ai décidé d'arrêter parce que j'ai eu des périodes assez compliquées niveau enzoas on va pas rajouter de l'huile sur le feu le café pour moi c'est une des meilleures odores au monde mais je ne veux plus en voir parce que vraiment ça me fait stresser c'est pas bon mais est-ce que je suis accro à la campaign ça oui est-ce que ça joue dans le club Mathé ?
-
-(...)
-
-c'est mal mais aussi tu vois quand tu m'as fait goûter pour apprendre que tu me disais tu vas essayer je goute le truc je goute le truc je t'en sais pas attends
-
-(...)
-
-attends attends fais-moi et t'as fini sa première goûter c'est mal
-
-(...)
-
-j'adore je sais pas pourquoi cette voie
-
-(...)
-
-elle est à la fois douce elle est à la fois penchée elle sort un peu de nulle part c'est ça c'est des graines uniques moi je me suis grave demandé ce truc par rapport à la caféine parce que j'ai jamais bu de café(...) j'adore odeur mais l'eau boue j'ai jamais aimé j'en ai jamais bu en gros et donc c'est ma première voisson caféinée et je sens que ça me fait un effet quand même de ah oui c'est un expresso de la France
-
-(...)
-
-et du coup je sais pas de faux à quel point c'est lié à ma passion de cette voisson ou pas mais là pour le exemple ça fait pas mal de semaines que j'en ai fait pire il tremble(...) c'est pas je pense que l'aspect un peu que c'est un goût un peu bizarre unique et que c'est rare ça contribue au facteur mythologique mais le caféiné je pense que vite devenir d'habitude c'est un bon le matin quand j'arrivais au bureau je suis très très plus tard d'habitude(...) et comme je ne buvais pas de café c'était dur de pleurer forcément et je t'avoue que le club maté m'a vraiment aller faire partie sans les uns le matin moi j'en vois la prem oui aussi après moi c'est vrai que je me vienne par jour c'est un expresso c'est un expresso
-
-(...)
-
-c'est un expresso
-
-(...)
-
-c'est un expresso
-
-(...)
-
-c'est un expresso
-
-(...)
-
-c'est un expresso
-
-(...)
-
-c'est bien beau de ma part de la réponse à cette question alors que je ne suis pas au pardon c'est bien beau de la réponse de la question c'est bien beau de la parole
-
-(...)
-
-Qu'est-ce que tu auras fait Papayou quand tu y as... Tu connaissais un mec qui s'appelait Papayou ? C'est le...(...) Ouais, c'est le mec qui a fait presto. Je pense que si on se souvient de ma personne, je devrais dire qu'on se souvienne que...(...) je faisais tout n'importe quoi et que... j'étais...(...) un métier qui ne faisait plus de vieux dire, c'était d'aider des gens.
-
-(...)
-
-Après, si je devais avoir un héritage plus profond, je pense que je serais ravie si il y a des gens que j'ai rencontrés qui ont pu se dire...
-
-(...)
-
-en fait, on...
-
-(...)
-
-comme mes amis Gaillards, c'est en faisant n'importe quoi, qu'on devient n'importe qui.(...) C'est ce l'ensemble n'importe quoi, qu'on arrive nulle part et partout,
-
-(...)
-
-que rien n'a de sens, mais tout est intéressant,
-
-(...)
-
-que...
-
-(...)
-
-rien n'est grave, mais...
-
-(...)
-
-tout est...(...) mais il faut avoir envie de... je sais pas. Il y a mille trucs, mais en tout cas, mon héritage, je serais... essayé à prendre recommences. Je sais pas d'espoir plus profond que ça pour mon héritage.
-
-(...)
-
-Je pense que c'est une bonne conclusion... pour que ça arrête là-dessus. C'est pas mal. Je crois qu'on retient quelque chose de pas mal, là. Ah ouais.
-
-(...)
-
-On a tenu combien de temps ?
-
-(...)
-
-2 heures, tout pile. C'est 2 heures.
+*Mais en tout cas, mon héritage, ce serais: **"Essayer, apprendre, recommencer".** J'ai pas d'espoir plus profond que ça !*
