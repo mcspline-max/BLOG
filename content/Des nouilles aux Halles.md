@@ -4,7 +4,7 @@ tags:
   - interview
 Summary: Un bon petit restau aux Halles, pas cher, copieux et très bon.
 image_cover:
-draft: true
+draft: false
 ---
 Chongqing Noodles, j'y suis allé trois fois en un mois. Sans doute originaires de la ville homonyme en Chine, les nouilles qui y sont servies ne donnent envie que de revenir.
 
