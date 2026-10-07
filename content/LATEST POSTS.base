@@ -4,11 +4,12 @@ properties:
   file.ctime:
     displayName: Creation Date
 views:
-  - type: cards
+  - type: list
     name: Latest Posts
     filters:
       and:
         - file.tags.contains("post")
+        - draft != false
     order:
       - file.name
       - file.ctime
@@ -19,4 +20,4 @@ views:
     limit: 10
     image: note.image_cover
     imageAspectRatio: 0.9
-    cardSize: 240
+    cardSize: 220

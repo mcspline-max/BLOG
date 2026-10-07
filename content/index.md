@@ -6,7 +6,7 @@ title: Home
 ---
 ## Welcome to my blog !
 
-My name is Mathieu Clavier and I'm a freelance 3D artist. I write about color-management, compositing and people. What will you read now ? 
+Je m'appelle Mathieu Clavier, bienvenue sur mon blog.
 ### Latest posts:
 ![[LATEST POSTS.base]]
 

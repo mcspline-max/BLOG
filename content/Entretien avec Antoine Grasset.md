@@ -6,7 +6,6 @@ Summary: Interview complète de Antoine Grasset - 2025
 image_cover: "[[Antoine Grasset 2.avif]]"
 draft:
 ---
-
 #### **Pour la petite histoire...**
 ![[Antoine Face.jpg|right]]
 
