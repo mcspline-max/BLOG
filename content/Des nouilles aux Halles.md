@@ -5,7 +5,7 @@ Summary: Un bon petit restau aux Halles, pas cher, copieux et très bon.
 image_cover: "[[IMG_20261007_194838717.jpg]]"
 draft: false
 ---
-Chongqing Noodles, j'y suis allé trois fois en un mois. Sans doute originaires de la ville homonyme en Chine, les nouilles qui y sont servies ne donnent envie que de revenir.
+Chongqing Noodles, j'y suis allé trois fois en un mois. Sans doute originaires de la ville homonyme en Chine, les nouilles qui y sont servies ne donnent envie que de revenir !
 
 ![[Chongqing Noodles Face.jpg]]
 
