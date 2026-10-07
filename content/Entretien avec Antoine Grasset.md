@@ -239,7 +239,7 @@ ___
 
 *Je pense que c'est la chose la plus importante qu'on ait développé. Après on développe aussi Flynn, qui est notre logiciel de tracking qui nous a permis d'avoir nos plus gros projets, ces deux systèmes sont très complémentaires.*
 
-[![Spline Tracking System](SPLINE-CAMERA-TRACKING-FLYNN-copyright-Spline.webp)](https://spline.fr/camera-tracking)
+[![[Flynn Camera Tracking.jpeg]]](https://spline.fr/camera-tracking)
 
 ---
 ### Si tu devais recommencer le développement de Presto de zéro aujourd'hui, qu'est-ce que tu ferais différemment ?
