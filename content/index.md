@@ -8,6 +8,6 @@ title: Home
 
 Je m'appelle Mathieu Clavier, bienvenue sur mon blog.
 ### Latest posts:
-![[LATEST POSTS.base]]
+![[Latest Posts.base]]
 
 

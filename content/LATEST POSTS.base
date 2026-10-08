@@ -16,7 +16,7 @@ views:
       - Summary
     sort:
       - property: file.ctime
-        direction: ASC
+        direction: DESC
     image: note.image_cover
     imageAspectRatio: 0.95
     cardSize: 190
