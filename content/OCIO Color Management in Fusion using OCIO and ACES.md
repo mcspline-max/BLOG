@@ -81,9 +81,9 @@ flowchart TD
     G ----> E
     E --> F(["ACEScg"])
 
-    classDef state fill:#a7c2b7,stroke:#7a9d8e,color:#1a1a1a
-    classDef tool fill:#b7c5da,stroke:#8ea0be,color:#1a1a1a
-    classDef fusion fill:#b9a569,stroke:#9b8237,color:#1a1a1a
+    classDef state fill:#2d6a4f,stroke:#1b4332,color:#fff
+    classDef tool fill:#1d3557,stroke:#14213d,color:#fff
+    classDef fusion fill:#8a6d1b,stroke:#5e4a10,color:#fff
     class A,C,G,F state
     class I,D,E tool
     class B fusion
@@ -103,9 +103,9 @@ flowchart TD
     F --> H("OCIO Display")
     H --> J(["Rec.709"])
 
-    classDef state fill:#a7c2b7,stroke:#7a9d8e,color:#1a1a1a
-    classDef tool fill:#b7c5da,stroke:#8ea0be,color:#1a1a1a
-    classDef fusion fill:#b9a569,stroke:#9b8237,color:#1a1a1a
+    classDef state fill:#2d6a4f,stroke:#1b4332,color:#fff
+    classDef tool fill:#1d3557,stroke:#14213d,color:#fff
+    classDef fusion fill:#8a6d1b,stroke:#5e4a10,color:#fff
     class A,C,G,F,J state
     class I,D,E tool
     class B,H fusion
@@ -199,9 +199,9 @@ It all depends on what you want to do. Here's a quick guide to help you:
 flowchart TD
     I["File Input"] --> A(["S-Gamut3 / S-Log3"]) --> B("OCIO Color Space") --> C(["ACEScg"]) --> E["Comping"]
 
-    classDef state fill:#a7c2b7,stroke:#7a9d8e,color:#1a1a1a
-    classDef tool fill:#b7c5da,stroke:#8ea0be,color:#1a1a1a
-    classDef fusion fill:#b9a569,stroke:#9b8237,color:#1a1a1a
+    classDef state fill:#2d6a4f,stroke:#1b4332,color:#fff
+    classDef tool fill:#1d3557,stroke:#14213d,color:#fff
+    classDef fusion fill:#8a6d1b,stroke:#5e4a10,color:#fff
     class A,C state
     class I,E tool
     class B fusion
@@ -214,9 +214,9 @@ flowchart TD
     E["Comping"] --> F(["ACEScg"]) --> O["File Output<br/>to color grading"]
     F -.-> V("OCIO Display<br/>in the viewer LUT") -.-> W(["Rec.709<br/>viewer only"])
 
-    classDef state fill:#a7c2b7,stroke:#7a9d8e,color:#1a1a1a
-    classDef tool fill:#b7c5da,stroke:#8ea0be,color:#1a1a1a
-    classDef fusion fill:#b9a569,stroke:#9b8237,color:#1a1a1a
+    classDef state fill:#2d6a4f,stroke:#1b4332,color:#fff
+    classDef tool fill:#1d3557,stroke:#14213d,color:#fff
+    classDef fusion fill:#8a6d1b,stroke:#5e4a10,color:#fff
     class F,W state
     class E,O tool
     class V fusion
@@ -229,9 +229,9 @@ flowchart TD
     E["Comping"] --> F(["ACEScg"]) --> H("OCIO Display") --> J(["Rec.709"]) --> O["File Output<br/>final delivery"]
     F -.-> V("OCIO Display<br/>in the viewer LUT") -.-> W(["Rec.709<br/>viewer only"])
 
-    classDef state fill:#a7c2b7,stroke:#7a9d8e,color:#1a1a1a
-    classDef tool fill:#b7c5da,stroke:#8ea0be,color:#1a1a1a
-    classDef fusion fill:#b9a569,stroke:#9b8237,color:#1a1a1a
+    classDef state fill:#2d6a4f,stroke:#1b4332,color:#fff
+    classDef tool fill:#1d3557,stroke:#14213d,color:#fff
+    classDef fusion fill:#8a6d1b,stroke:#5e4a10,color:#fff
     class F,J,W state
     class E,O tool
     class H,V fusion
