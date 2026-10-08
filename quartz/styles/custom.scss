@@ -14,3 +14,11 @@ img[alt*="right"] {
 .bases-view-meta {
   display: none !important;
 }
+
+pre > code.mermaid {
+  justify-items: center;
+}
+
+code.mermaid .nodeLabel p {
+  color: inherit;
+}
