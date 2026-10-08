@@ -30,7 +30,9 @@ The error I want to address here, and the one I see the most often is the the mi
 
 > I'm pretty sure some engineer at BMD actually had OCD when naming this fucker.
 
-- `OCIO Color Space`: as the name implies, this node does one thing. It takes a color-space and change it into another. 
+#### `OCIO Color Space`:
+
+As the name implies, this node does one thing. It takes a color-space and change it into another. 
 
 ![[Color Space Transform.png]]
 
