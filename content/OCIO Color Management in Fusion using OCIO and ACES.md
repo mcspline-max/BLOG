@@ -15,7 +15,11 @@ Most of the information in those videos is right, but they mix up the tools of F
 
 If you don't want to read all of this, you can go to the end: [[#What does all this mean?]]
 
-![[#^quick-guide-table]]
+| Situation                    | OCIO node        | Where it goes                                                               |
+| ---------------------------- | ---------------- | --------------------------------------------------------------------------- |
+| Mapping a plate              | OCIO Color Space | At the input of your graph, to convert the plate to the working color space |
+| Comp, then color grading     | OCIO Display     | In the viewer LUT                                                           |
+| Final delivery out of Fusion | OCIO Display     | At the end of your graph, plus in the viewer LUT while comping              |
 
 ---
 # OCIO vs ACES
@@ -117,18 +121,18 @@ Why choose when you can have both? Fusion has a great feature called the viewer 
 
 You can think of it as a filter placed in front of your screen. Whatever is shown in the viewer passes through this LUT, but only for display, so nothing gets baked into your pipeline. It's actually a supercharged LUT, because you can use any of Fusion's color management tools as your display transform. You can use a standard `.cube` LUT, but also, and this is where it gets interesting, OCIO Display!
 
-![[Pasted image 20261008162247.png]]
+![[OCIO Display Lut Dropdown.png]]
 
 Once OCIO Display is selected, use the Edit button to set the path to your OCIO config, if it isn't already set through your environment variables.
 
-![[Pasted image 20261008162411.png]]
+![[OCIO Display Settings view LUT.png]]
 
 This way, your whole comp is done in ACEScg and your exports stay in ACEScg, while the viewer shows the right image for your screen.
 
 > [!tip]
 > To enable it by default, right-click in the viewer and choose **Settings > Save Defaults**.
 
-![[Pasted image 20261008162524.png]]
+![[Save Default View LUT.png]]
 
 ---
 # Why this matters
