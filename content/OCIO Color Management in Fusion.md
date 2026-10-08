@@ -29,8 +29,7 @@ What I want to talk about now, is in the realm of CG rendering, you export from 
 The error I want to address here, and the one I see the most often is the the mis-use of the OCIO toolbox inside of Fusion: `OCIO Color Space(OCC`) and `OCIO Display(OCD)`
 
 > I'm pretty sure some engineer at BMD actually had OCD when naming this fucker.
-
-#### `OCIO Color Space`:
+## OCIO Color Space:
 
 As the name implies, this node does one thing. It takes a color-space and change it into another. 
 
