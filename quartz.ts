@@ -1,10 +1,16 @@
 import { loadQuartzConfig, loadQuartzLayout } from "./quartz/plugins/loader/config-loader"
-import * as ExternalPlugin from "./.quartz/plugins"
+import { componentRegistry } from "./quartz/components/registry"
 
-ExternalPlugin.Explorer({
-  filterFn: (node) => {
-    const hidden = new Set(["latest posts", "tags"]) // lowercase names
-    return !hidden.has(node.displayName.toLowerCase())
+// Explorer overrides.
+// This install loads its plugins from npm (node_modules/@quartz-community/*), so there is
+// no generated "./.quartz/plugins" folder to import from: overrides are registered directly.
+// The function below is copied as text and run in the browser, so it must stay
+// self-contained (no variables or helper functions from outside it).
+componentRegistry.setOptionOverrides("@quartz-community/explorer", {
+  // Hide the tags folder (the default behaviour) and every Obsidian Base (".base" pages)
+  filterFn: (node: { slugSegment?: string }) => {
+    const segment = node.slugSegment || ""
+    return segment !== "tags" && !segment.endsWith(".base")
   },
 })
 
